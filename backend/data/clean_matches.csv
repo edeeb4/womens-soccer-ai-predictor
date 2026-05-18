@@ -1,0 +1,956 @@
+date,league,home_team,away_team,home_score,away_score,home_xg,away_xg,source,result
+2022-08-27,208,FC Como Women,Juventus,0,6,0.1,2.9,european_leagues,AWAY_WIN
+2022-08-28,208,ASD Calcio Pomigliano,AS Roma,0,2,0.2,2.4,european_leagues,AWAY_WIN
+2022-08-28,208,AC Milan,Fiorentina,1,3,0.7,1.3,european_leagues,AWAY_WIN
+2022-08-28,208,Internazionale,Parma Calcio 1913,4,1,2.8,0.8,european_leagues,HOME_WIN
+2022-08-28,208,Sassuolo,UC Sampdoria,1,2,1.4,2.7,european_leagues,AWAY_WIN
+2022-09-09,193,Paris S-G,Soyaux,2,0,2.8,0.3,european_leagues,HOME_WIN
+2022-09-10,193,Bordeaux,Le Havre,4,2,2.0,0.7,european_leagues,HOME_WIN
+2022-09-10,193,Guingamp,Fleury,0,3,0.5,2.5,european_leagues,AWAY_WIN
+2022-09-10,193,Paris FC,Rodez,2,0,1.3,0.3,european_leagues,HOME_WIN
+2022-09-10,193,Montpellier,Dijon,3,0,2.3,1.2,european_leagues,HOME_WIN
+2022-09-10,208,AS Roma,AC Milan,2,0,1.4,0.6,european_leagues,HOME_WIN
+2022-09-11,193,Stade de Reims,Lyon,1,5,0.7,3.6,european_leagues,AWAY_WIN
+2022-09-11,208,UC Sampdoria,ASD Calcio Pomigliano,2,1,1.6,0.9,european_leagues,HOME_WIN
+2022-09-11,208,Juventus,Internazionale,3,3,1.4,0.6,european_leagues,DRAW
+2022-09-11,208,Fiorentina,FC Como Women,2,1,0.8,0.9,european_leagues,HOME_WIN
+2022-09-12,208,Parma Calcio 1913,Sassuolo,2,1,2.0,0.9,european_leagues,HOME_WIN
+2022-09-16,189,Arsenal,Brighton,4,0,3.6,0.3,european_leagues,HOME_WIN
+2022-09-16,193,Fleury,Paris FC,1,1,1.2,0.9,european_leagues,DRAW
+2022-09-16,183,E. Frankfurt,Bayern Munich,0,0,0.7,0.5,european_leagues,DRAW
+2022-09-16,208,Juventus,AS Roma,1,0,0.7,1.2,european_leagues,HOME_WIN
+2022-09-17,230,Barcelona,UDG Tenerife,2,0,1.9,0.4,european_leagues,HOME_WIN
+2022-09-17,230,Alavés,Madrid CFF,1,2,1.1,1.2,european_leagues,AWAY_WIN
+2022-09-17,230,Real Sociedad,Villarreal,2,0,0.7,0.3,european_leagues,HOME_WIN
+2022-09-17,230,Real Madrid,Valencia,2,0,1.6,0.8,european_leagues,HOME_WIN
+2022-09-17,230,Sevilla,Atlético Madrid,1,3,1.1,1.4,european_leagues,AWAY_WIN
+2022-09-17,189,Manchester Utd,Reading,4,0,2.3,0.0,european_leagues,HOME_WIN
+2022-09-17,193,Dijon,Bordeaux,1,1,0.2,1.0,european_leagues,DRAW
+2022-09-17,193,Stade de Reims,Montpellier,1,3,0.1,2.9,european_leagues,AWAY_WIN
+2022-09-17,193,Rodez,Paris S-G,0,4,0.2,3.1,european_leagues,AWAY_WIN
+2022-09-17,183,Wolfsburg,Essen,4,0,4.2,0.9,european_leagues,HOME_WIN
+2022-09-17,208,Internazionale,ASD Calcio Pomigliano,6,1,2.5,1.8,european_leagues,HOME_WIN
+2022-09-18,230,Alhama,Levante,2,3,0.7,2.1,european_leagues,AWAY_WIN
+2022-09-18,230,Athletic Club,Sporting Huelva,3,0,3.1,0.2,european_leagues,HOME_WIN
+2022-09-18,230,Real Betis,Levante Planas,1,2,0.3,1.3,european_leagues,AWAY_WIN
+2022-09-18,189,Aston Villa,Manchester City,4,3,1.4,0.7,european_leagues,HOME_WIN
+2022-09-18,189,West Ham,Everton,1,0,0.4,0.6,european_leagues,HOME_WIN
+2022-09-18,189,Leicester City WFC,Tottenham,1,2,0.3,0.3,european_leagues,AWAY_WIN
+2022-09-18,189,Liverpool,Chelsea,2,1,2.0,1.3,european_leagues,HOME_WIN
+2022-09-18,193,Le Havre,Guingamp,1,0,1.7,0.6,european_leagues,HOME_WIN
+2022-09-18,193,Lyon,Soyaux,2,1,3.2,0.1,european_leagues,HOME_WIN
+2022-09-18,183,Köln,Hoffenheim,3,1,1.9,1.1,european_leagues,HOME_WIN
+2022-09-18,183,SV Meppen,Freiburg,1,2,1.0,0.8,european_leagues,AWAY_WIN
+2022-09-18,183,Werder Bremen,Turbine Potsdam,1,1,0.7,0.7,european_leagues,DRAW
+2022-09-18,183,MSV Duisburg,Leverkusen,0,1,0.0,2.4,european_leagues,AWAY_WIN
+2022-09-18,208,Fiorentina,Parma Calcio 1913,2,1,2.6,1.2,european_leagues,HOME_WIN
+2022-09-18,208,FC Como Women,UC Sampdoria,0,1,0.6,1.2,european_leagues,AWAY_WIN
+2022-09-18,208,AC Milan,Sassuolo,3,1,1.6,0.4,european_leagues,HOME_WIN
+2022-09-23,193,Paris FC,Le Havre,1,0,2.6,0.4,european_leagues,HOME_WIN
+2022-09-23,193,Montpellier,Lyon,1,3,1.2,2.1,european_leagues,AWAY_WIN
+2022-09-23,183,Leverkusen,Köln,1,0,1.7,1.6,european_leagues,HOME_WIN
+2022-09-24,230,Madrid CFF,Levante Planas,3,1,3.4,0.5,european_leagues,HOME_WIN
+2022-09-24,230,Sporting Huelva,Alhama,1,0,0.5,0.8,european_leagues,HOME_WIN
+2022-09-24,230,Valencia,Sevilla,2,0,2.8,1.3,european_leagues,HOME_WIN
+2022-09-24,230,Real Sociedad,Real Betis,2,2,2.8,0.6,european_leagues,DRAW
+2022-09-24,189,Arsenal,Tottenham,4,0,1.5,0.2,european_leagues,HOME_WIN
+2022-09-24,193,Soyaux,Rodez,2,0,1.5,1.0,european_leagues,HOME_WIN
+2022-09-24,193,Guingamp,Dijon,0,1,1.3,1.3,european_leagues,AWAY_WIN
+2022-09-24,193,Bordeaux,Stade de Reims,0,1,0.7,1.0,european_leagues,AWAY_WIN
+2022-09-24,183,Hoffenheim,Wolfsburg,1,2,0.7,2.9,european_leagues,AWAY_WIN
+2022-09-24,208,Sassuolo,Juventus,1,1,0.5,1.4,european_leagues,DRAW
+2022-09-24,208,Parma Calcio 1913,AC Milan,0,4,0.7,3.3,european_leagues,AWAY_WIN
+2022-09-24,208,AS Roma,Fiorentina,2,1,1.6,0.4,european_leagues,HOME_WIN
+2022-09-25,230,Atlético Madrid,Alavés,1,0,2.3,0.0,european_leagues,HOME_WIN
+2022-09-25,230,Villarreal,Barcelona,1,4,0.5,2.9,european_leagues,AWAY_WIN
+2022-09-25,230,Levante,Athletic Club,2,0,0.4,0.4,european_leagues,HOME_WIN
+2022-09-25,189,Brighton,Reading,2,1,1.8,1.4,european_leagues,HOME_WIN
+2022-09-25,189,West Ham,Manchester Utd,0,2,0.6,1.2,european_leagues,AWAY_WIN
+2022-09-25,189,Leicester City WFC,Aston Villa,0,2,0.8,1.4,european_leagues,AWAY_WIN
+2022-09-25,189,Chelsea,Manchester City,2,0,1.4,0.9,european_leagues,HOME_WIN
+2022-09-25,189,Liverpool,Everton,0,3,1.4,1.3,european_leagues,AWAY_WIN
+2022-09-25,193,Paris S-G,Fleury,2,1,1.7,0.4,european_leagues,HOME_WIN
+2022-09-25,183,Bayern Munich,Werder Bremen,3,0,2.1,0.7,european_leagues,HOME_WIN
+2022-09-25,183,Turbine Potsdam,MSV Duisburg,0,3,0.4,1.1,european_leagues,AWAY_WIN
+2022-09-25,183,Essen,SV Meppen,1,0,1.4,0.2,european_leagues,HOME_WIN
+2022-09-25,183,Freiburg,E. Frankfurt,2,4,1.4,2.2,european_leagues,AWAY_WIN
+2022-09-25,208,ASD Calcio Pomigliano,FC Como Women,2,2,1.6,1.4,european_leagues,DRAW
+2022-09-25,208,UC Sampdoria,Internazionale,0,2,1.2,2.6,european_leagues,AWAY_WIN
+2022-09-28,189,Chelsea,West Ham,3,1,2.5,0.2,european_leagues,HOME_WIN
+2022-09-29,189,Everton,Leicester City WFC,1,0,0.3,0.2,european_leagues,HOME_WIN
+2022-09-30,193,Montpellier,Bordeaux,0,0,0.8,0.4,european_leagues,DRAW
+2022-09-30,183,Wolfsburg,Leverkusen,6,1,2.2,1.0,european_leagues,HOME_WIN
+2022-09-30,208,FC Como Women,Internazionale,1,3,2.2,1.7,european_leagues,AWAY_WIN
+2022-10-01,230,Alavés,Villarreal,0,4,1.7,2.4,european_leagues,AWAY_WIN
+2022-10-01,230,Real Betis,UDG Tenerife,1,2,0.4,1.5,european_leagues,AWAY_WIN
+2022-10-01,230,Sporting Huelva,Valencia,0,0,0.3,0.5,european_leagues,DRAW
+2022-10-01,230,Barcelona,Madrid CFF,7,0,2.7,0.7,european_leagues,HOME_WIN
+2022-10-01,193,Fleury,Soyaux,1,1,1.2,0.4,european_leagues,DRAW
+2022-10-01,193,Stade de Reims,Guingamp,3,0,1.1,0.7,european_leagues,HOME_WIN
+2022-10-01,193,Dijon,Paris FC,0,2,0.4,1.8,european_leagues,AWAY_WIN
+2022-10-01,193,Lyon,Rodez,2,0,1.6,0.1,european_leagues,HOME_WIN
+2022-10-01,183,Köln,Turbine Potsdam,4,2,2.5,0.8,european_leagues,HOME_WIN
+2022-10-01,208,Fiorentina,Sassuolo,2,0,3.1,0.4,european_leagues,HOME_WIN
+2022-10-01,208,AC Milan,UC Sampdoria,2,1,2.1,1.2,european_leagues,HOME_WIN
+2022-10-02,230,Levante Planas,Alhama,3,1,2.7,1.6,european_leagues,HOME_WIN
+2022-10-02,230,Levante,Atlético Madrid,2,1,0.9,1.3,european_leagues,HOME_WIN
+2022-10-02,230,Sevilla,Real Sociedad,2,2,1.7,1.3,european_leagues,DRAW
+2022-10-02,230,Athletic Club,Real Madrid,0,3,0.5,1.5,european_leagues,AWAY_WIN
+2022-10-02,193,Le Havre,Paris S-G,2,2,0.3,1.9,european_leagues,DRAW
+2022-10-02,183,SV Meppen,Hoffenheim,0,2,0.7,3.2,european_leagues,AWAY_WIN
+2022-10-02,183,E. Frankfurt,Werder Bremen,3,1,1.4,0.2,european_leagues,HOME_WIN
+2022-10-02,183,MSV Duisburg,Bayern Munich,0,4,0.3,2.4,european_leagues,AWAY_WIN
+2022-10-02,183,Freiburg,Essen,5,2,2.9,2.1,european_leagues,HOME_WIN
+2022-10-02,208,Juventus,ASD Calcio Pomigliano,3,0,1.9,0.1,european_leagues,HOME_WIN
+2022-10-02,208,AS Roma,Parma Calcio 1913,5,0,2.3,0.3,european_leagues,HOME_WIN
+2022-10-14,193,Paris FC,Stade de Reims,2,2,1.9,0.5,european_leagues,DRAW
+2022-10-14,183,Hoffenheim,Freiburg,3,2,0.7,1.7,european_leagues,HOME_WIN
+2022-10-15,230,Levante Planas,Levante,1,1,0.3,2.2,european_leagues,DRAW
+2022-10-15,230,Real Sociedad,UDG Tenerife,1,1,2.0,0.8,european_leagues,DRAW
+2022-10-15,230,Atlético Madrid,Sporting Huelva,5,0,3.8,0.1,european_leagues,HOME_WIN
+2022-10-15,230,Athletic Club,Barcelona,0,3,0.2,2.8,european_leagues,AWAY_WIN
+2022-10-15,189,Aston Villa,West Ham,1,2,2.3,1.0,european_leagues,AWAY_WIN
+2022-10-15,193,Guingamp,Montpellier,1,4,1.4,2.7,european_leagues,AWAY_WIN
+2022-10-15,193,Paris S-G,Dijon,3,1,2.4,0.2,european_leagues,HOME_WIN
+2022-10-15,193,Soyaux,Le Havre,1,4,0.7,2.5,european_leagues,AWAY_WIN
+2022-10-15,183,Turbine Potsdam,Wolfsburg,0,2,0.1,4.1,european_leagues,AWAY_WIN
+2022-10-15,208,ASD Calcio Pomigliano,Fiorentina,0,1,1.4,1.3,european_leagues,AWAY_WIN
+2022-10-15,208,FC Como Women,Parma Calcio 1913,4,1,1.4,1.4,european_leagues,HOME_WIN
+2022-10-15,208,Internazionale,AC Milan,4,0,2.2,1.0,european_leagues,HOME_WIN
+2022-10-16,230,Real Madrid,Alavés,7,1,3.0,0.3,european_leagues,HOME_WIN
+2022-10-16,230,Villarreal,Sevilla,0,5,0.4,2.2,european_leagues,AWAY_WIN
+2022-10-16,230,Alhama,Valencia,0,1,0.9,0.9,european_leagues,AWAY_WIN
+2022-10-16,230,Madrid CFF,Real Betis,4,0,2.1,0.2,european_leagues,HOME_WIN
+2022-10-16,189,Manchester Utd,Brighton,4,0,1.5,0.4,european_leagues,HOME_WIN
+2022-10-16,189,Everton,Chelsea,1,3,0.7,2.3,european_leagues,AWAY_WIN
+2022-10-16,189,Tottenham,Liverpool,1,0,1.1,0.5,european_leagues,HOME_WIN
+2022-10-16,189,Manchester City,Leicester City WFC,4,0,3.3,0.2,european_leagues,HOME_WIN
+2022-10-16,189,Reading,Arsenal,0,1,0.7,2.1,european_leagues,AWAY_WIN
+2022-10-16,193,Bordeaux,Lyon,1,3,0.6,2.0,european_leagues,AWAY_WIN
+2022-10-16,193,Rodez,Fleury,2,1,1.0,0.3,european_leagues,HOME_WIN
+2022-10-16,183,Leverkusen,SV Meppen,0,1,0.7,1.2,european_leagues,AWAY_WIN
+2022-10-16,183,Bayern Munich,Köln,4,0,2.2,0.3,european_leagues,HOME_WIN
+2022-10-16,183,Essen,E. Frankfurt,0,4,0.1,1.3,european_leagues,AWAY_WIN
+2022-10-16,183,Werder Bremen,MSV Duisburg,0,0,0.9,0.3,european_leagues,DRAW
+2022-10-16,208,Sassuolo,AS Roma,0,1,0.4,2.0,european_leagues,AWAY_WIN
+2022-10-16,208,UC Sampdoria,Juventus,0,4,1.0,1.9,european_leagues,AWAY_WIN
+2022-10-21,183,SV Meppen,Turbine Potsdam,2,0,0.9,1.1,european_leagues,HOME_WIN
+2022-10-22,230,Alavés,Athletic Club,1,1,0.6,1.1,european_leagues,DRAW
+2022-10-22,230,Atlético Madrid,Madrid CFF,1,1,1.9,0.3,european_leagues,DRAW
+2022-10-22,230,Sporting Huelva,Real Sociedad,0,2,1.3,1.7,european_leagues,AWAY_WIN
+2022-10-22,230,Real Betis,Barcelona,0,3,0.0,2.8,european_leagues,AWAY_WIN
+2022-10-22,189,Tottenham,Manchester City,0,3,0.1,0.9,european_leagues,AWAY_WIN
+2022-10-22,189,Aston Villa,Everton,0,1,0.7,0.8,european_leagues,AWAY_WIN
+2022-10-22,183,Freiburg,Leverkusen,3,2,1.0,1.8,european_leagues,HOME_WIN
+2022-10-22,208,Parma Calcio 1913,ASD Calcio Pomigliano,1,3,1.1,0.9,european_leagues,AWAY_WIN
+2022-10-22,208,AC Milan,Juventus,4,3,1.5,2.4,european_leagues,HOME_WIN
+2022-10-23,230,UDG Tenerife,Villarreal,2,0,1.3,0.6,european_leagues,HOME_WIN
+2022-10-23,230,Levante,Real Madrid,2,2,1.3,0.9,european_leagues,DRAW
+2022-10-23,230,Valencia,Levante Planas,1,1,1.5,0.6,european_leagues,DRAW
+2022-10-23,230,Sevilla,Alhama,2,0,1.5,0.1,european_leagues,HOME_WIN
+2022-10-23,189,Liverpool,Arsenal,0,2,0.7,1.4,european_leagues,AWAY_WIN
+2022-10-23,189,Leicester City WFC,Manchester Utd,0,1,0.3,0.8,european_leagues,AWAY_WIN
+2022-10-23,189,West Ham,Reading,3,2,1.6,1.4,european_leagues,HOME_WIN
+2022-10-23,189,Brighton,Chelsea,0,2,1.0,2.0,european_leagues,AWAY_WIN
+2022-10-23,183,Essen,Hoffenheim,2,3,0.9,1.3,european_leagues,AWAY_WIN
+2022-10-23,183,Wolfsburg,Bayern Munich,2,1,1.0,0.9,european_leagues,HOME_WIN
+2022-10-23,183,E. Frankfurt,MSV Duisburg,3,2,3.1,0.4,european_leagues,HOME_WIN
+2022-10-23,183,Köln,Werder Bremen,2,0,1.4,1.9,european_leagues,HOME_WIN
+2022-10-23,208,AS Roma,FC Como Women,1,0,1.8,0.3,european_leagues,HOME_WIN
+2022-10-23,208,Fiorentina,UC Sampdoria,2,1,2.9,1.3,european_leagues,HOME_WIN
+2022-10-23,208,Sassuolo,Internazionale,1,1,0.4,2.3,european_leagues,DRAW
+2022-10-28,193,Montpellier,Paris FC,1,3,1.1,1.5,european_leagues,AWAY_WIN
+2022-10-28,183,MSV Duisburg,Köln,2,1,1.3,1.4,european_leagues,HOME_WIN
+2022-10-29,230,Athletic Club,Atlético Madrid,1,4,0.9,1.9,european_leagues,AWAY_WIN
+2022-10-29,230,Madrid CFF,UDG Tenerife,2,0,1.9,0.2,european_leagues,HOME_WIN
+2022-10-29,230,Alavés,Real Sociedad,1,5,0.4,2.2,european_leagues,AWAY_WIN
+2022-10-29,230,Alhama,Real Betis,0,2,1.0,1.3,european_leagues,AWAY_WIN
+2022-10-29,193,Le Havre,Rodez,2,1,2.1,1.5,european_leagues,HOME_WIN
+2022-10-29,193,Dijon,Soyaux,1,0,2.2,0.5,european_leagues,HOME_WIN
+2022-10-29,193,Stade de Reims,Paris S-G,0,2,0.5,2.1,european_leagues,AWAY_WIN
+2022-10-29,193,Bordeaux,Guingamp,3,1,2.1,1.4,european_leagues,HOME_WIN
+2022-10-29,183,Hoffenheim,E. Frankfurt,3,3,1.5,2.3,european_leagues,DRAW
+2022-10-29,208,ASD Calcio Pomigliano,AC Milan,2,1,1.6,1.4,european_leagues,HOME_WIN
+2022-10-29,208,Internazionale,AS Roma,1,2,0.5,1.4,european_leagues,AWAY_WIN
+2022-10-30,230,Levante Planas,Sporting Huelva,1,2,1.5,1.6,european_leagues,AWAY_WIN
+2022-10-30,230,Barcelona,Levante,2,1,2.2,1.2,european_leagues,HOME_WIN
+2022-10-30,230,Villarreal,Valencia,1,1,0.8,1.0,european_leagues,DRAW
+2022-10-30,230,Real Madrid,Sevilla,2,0,0.9,1.0,european_leagues,HOME_WIN
+2022-10-30,189,Reading,Leicester City WFC,2,1,0.4,0.3,european_leagues,HOME_WIN
+2022-10-30,189,Manchester City,Liverpool,2,1,2.1,0.9,european_leagues,HOME_WIN
+2022-10-30,189,Brighton,Tottenham,0,8,0.8,2.8,european_leagues,AWAY_WIN
+2022-10-30,189,Everton,Manchester Utd,0,3,0.3,0.7,european_leagues,AWAY_WIN
+2022-10-30,189,Chelsea,Aston Villa,3,1,1.7,0.6,european_leagues,HOME_WIN
+2022-10-30,189,Arsenal,West Ham,3,1,1.6,1.3,european_leagues,HOME_WIN
+2022-10-30,193,Lyon,Fleury,1,0,1.8,0.1,european_leagues,HOME_WIN
+2022-10-30,183,Bayern Munich,SV Meppen,3,1,2.9,0.1,european_leagues,HOME_WIN
+2022-10-30,183,Turbine Potsdam,Freiburg,0,5,0.3,3.3,european_leagues,AWAY_WIN
+2022-10-30,183,Leverkusen,Essen,6,0,2.1,0.4,european_leagues,HOME_WIN
+2022-10-30,183,Werder Bremen,Wolfsburg,2,3,0.9,2.6,european_leagues,AWAY_WIN
+2022-10-30,208,Juventus,Fiorentina,2,0,2.1,0.9,european_leagues,HOME_WIN
+2022-10-30,208,FC Como Women,Sassuolo,2,2,2.0,1.8,european_leagues,DRAW
+2022-10-30,208,UC Sampdoria,Parma Calcio 1913,0,0,0.5,0.9,european_leagues,DRAW
+2022-11-01,230,Atlético Madrid,Real Sociedad,1,1,1.5,1.4,european_leagues,DRAW
+2022-11-01,230,UDG Tenerife,Athletic Club,0,2,0.7,0.4,european_leagues,AWAY_WIN
+2022-11-01,230,Alhama,Madrid CFF,0,3,0.5,1.1,european_leagues,AWAY_WIN
+2022-11-02,230,Sporting Huelva,Sevilla,1,1,0.7,2.0,european_leagues,DRAW
+2022-11-02,230,Levante,Alavés,2,1,1.7,0.3,european_leagues,HOME_WIN
+2022-11-02,230,Valencia,Real Betis,3,0,2.2,0.3,european_leagues,HOME_WIN
+2022-11-03,230,Villarreal,Real Madrid,0,4,0.4,1.4,european_leagues,AWAY_WIN
+2022-11-03,230,Levante Planas,Barcelona,0,4,0.1,2.0,european_leagues,AWAY_WIN
+2022-11-04,193,Rodez,Dijon,1,1,2.3,0.9,european_leagues,DRAW
+2022-11-04,193,Paris FC,Bordeaux,1,1,1.2,0.7,european_leagues,DRAW
+2022-11-04,183,Hoffenheim,Leverkusen,3,1,2.0,1.8,european_leagues,HOME_WIN
+2022-11-05,230,Valencia,Athletic Club,1,2,2.0,0.7,european_leagues,AWAY_WIN
+2022-11-05,230,Real Sociedad,Madrid CFF,0,2,1.6,2.1,european_leagues,AWAY_WIN
+2022-11-05,230,Atlético Madrid,Alhama,1,0,1.6,0.3,european_leagues,HOME_WIN
+2022-11-05,230,Levante,Sporting Huelva,3,0,3.9,0.4,european_leagues,HOME_WIN
+2022-11-05,193,Paris S-G,Montpellier,2,2,2.0,0.3,european_leagues,DRAW
+2022-11-05,193,Fleury,Le Havre,3,0,2.8,0.6,european_leagues,HOME_WIN
+2022-11-05,193,Soyaux,Stade de Reims,1,4,0.8,2.3,european_leagues,AWAY_WIN
+2022-11-05,193,Guingamp,Lyon,0,0,0.3,1.6,european_leagues,DRAW
+2022-11-05,183,Freiburg,Bayern Munich,0,3,1.0,2.7,european_leagues,AWAY_WIN
+2022-11-06,230,UDG Tenerife,Alavés,1,1,1.0,1.1,european_leagues,DRAW
+2022-11-06,230,Villarreal,Real Betis,0,3,1.4,1.7,european_leagues,AWAY_WIN
+2022-11-06,230,Sevilla,Levante Planas,5,0,1.4,0.8,european_leagues,HOME_WIN
+2022-11-06,230,Real Madrid,Barcelona,0,4,0.4,3.4,european_leagues,AWAY_WIN
+2022-11-06,189,Leicester City WFC,Arsenal,0,4,0.2,1.9,european_leagues,AWAY_WIN
+2022-11-06,189,Reading,Manchester City,0,3,0.1,1.4,european_leagues,AWAY_WIN
+2022-11-06,189,Liverpool,Aston Villa,0,1,1.1,1.5,european_leagues,AWAY_WIN
+2022-11-06,189,West Ham,Brighton,4,5,1.1,3.5,european_leagues,AWAY_WIN
+2022-11-06,189,Manchester Utd,Chelsea,1,3,0.5,1.2,european_leagues,AWAY_WIN
+2022-11-06,183,Wolfsburg,MSV Duisburg,4,0,2.9,0.1,european_leagues,HOME_WIN
+2022-11-06,183,Essen,Turbine Potsdam,2,1,2.1,0.5,european_leagues,HOME_WIN
+2022-11-06,183,SV Meppen,Werder Bremen,2,0,1.3,1.0,european_leagues,HOME_WIN
+2022-11-06,183,E. Frankfurt,Köln,2,0,1.5,1.2,european_leagues,HOME_WIN
+2022-11-19,230,Alhama,UDG Tenerife,1,0,0.5,0.5,european_leagues,HOME_WIN
+2022-11-19,230,Sporting Huelva,Real Madrid,0,1,0.9,1.6,european_leagues,AWAY_WIN
+2022-11-19,230,Valencia,Levante,4,2,1.2,2.4,european_leagues,HOME_WIN
+2022-11-19,230,Athletic Club,Real Sociedad,1,3,0.6,1.3,european_leagues,AWAY_WIN
+2022-11-19,189,Everton,Manchester City,1,2,0.4,3.7,european_leagues,AWAY_WIN
+2022-11-19,189,Arsenal,Manchester Utd,2,3,0.8,0.9,european_leagues,AWAY_WIN
+2022-11-19,193,Montpellier,Soyaux,2,2,1.7,1.4,european_leagues,DRAW
+2022-11-19,193,Guingamp,Paris FC,0,3,0.6,1.9,european_leagues,AWAY_WIN
+2022-11-19,193,Dijon,Fleury,1,5,0.9,2.9,european_leagues,AWAY_WIN
+2022-11-19,193,Stade de Reims,Rodez,0,0,0.4,0.2,european_leagues,DRAW
+2022-11-19,208,AS Roma,UC Sampdoria,2,0,2.0,0.1,european_leagues,HOME_WIN
+2022-11-19,208,Parma Calcio 1913,Juventus,1,2,0.3,2.5,european_leagues,AWAY_WIN
+2022-11-20,230,Barcelona,Alavés,8,0,5.3,0.1,european_leagues,HOME_WIN
+2022-11-20,230,Levante Planas,Atlético Madrid,1,2,0.6,1.9,european_leagues,AWAY_WIN
+2022-11-20,230,Real Betis,Sevilla,3,0,0.7,1.9,european_leagues,HOME_WIN
+2022-11-20,230,Madrid CFF,Villarreal,1,2,1.1,0.8,european_leagues,AWAY_WIN
+2022-11-20,189,Chelsea,Tottenham,3,0,1.5,0.7,european_leagues,HOME_WIN
+2022-11-20,189,Aston Villa,Reading,3,1,2.4,0.4,european_leagues,HOME_WIN
+2022-11-20,189,Brighton,Liverpool,3,3,1.5,1.3,european_leagues,DRAW
+2022-11-20,189,West Ham,Leicester City WFC,1,0,0.6,1.3,european_leagues,HOME_WIN
+2022-11-20,193,Bordeaux,Paris S-G,0,3,0.6,1.2,european_leagues,AWAY_WIN
+2022-11-20,193,Lyon,Le Havre,1,0,2.0,0.2,european_leagues,HOME_WIN
+2022-11-20,208,Sassuolo,ASD Calcio Pomigliano,2,1,0.9,0.3,european_leagues,HOME_WIN
+2022-11-20,208,AC Milan,FC Como Women,3,3,2.3,1.3,european_leagues,DRAW
+2022-11-20,208,Fiorentina,Internazionale,0,0,0.8,2.0,european_leagues,DRAW
+2022-11-24,189,Reading,Liverpool,3,3,1.7,1.1,european_leagues,DRAW
+2022-11-25,193,Fleury,Stade de Reims,1,0,0.6,0.3,european_leagues,HOME_WIN
+2022-11-25,183,Turbine Potsdam,Hoffenheim,1,3,1.3,3.0,european_leagues,AWAY_WIN
+2022-11-26,230,Levante,Sevilla,5,1,2.2,1.3,european_leagues,HOME_WIN
+2022-11-26,230,Madrid CFF,Sporting Huelva,2,3,1.2,0.6,european_leagues,AWAY_WIN
+2022-11-26,230,Villarreal,Athletic Club,1,6,1.3,2.4,european_leagues,AWAY_WIN
+2022-11-26,230,Real Madrid,Alhama,5,1,3.1,0.7,european_leagues,HOME_WIN
+2022-11-26,193,Montpellier,Rodez,2,1,,,european_leagues,HOME_WIN
+2022-11-26,193,Paris S-G,Guingamp,1,0,0.7,0.5,european_leagues,HOME_WIN
+2022-11-26,193,Soyaux,Bordeaux,0,1,0.3,1.4,european_leagues,AWAY_WIN
+2022-11-26,193,Le Havre,Dijon,5,0,2.6,0.3,european_leagues,HOME_WIN
+2022-11-26,183,E. Frankfurt,Leverkusen,1,0,2.0,0.2,european_leagues,HOME_WIN
+2022-11-26,183,Werder Bremen,Freiburg,1,2,0.6,0.9,european_leagues,AWAY_WIN
+2022-11-26,208,AS Roma,ASD Calcio Pomigliano,2,0,3.8,0.7,european_leagues,HOME_WIN
+2022-11-26,208,Fiorentina,AC Milan,1,6,1.5,2.2,european_leagues,AWAY_WIN
+2022-11-27,230,UDG Tenerife,Valencia,1,0,1.6,0.9,european_leagues,HOME_WIN
+2022-11-27,230,Alavés,Real Betis,3,1,2.6,1.3,european_leagues,HOME_WIN
+2022-11-27,230,Real Sociedad,Levante Planas,3,0,3.5,0.5,european_leagues,HOME_WIN
+2022-11-27,230,Atlético Madrid,Barcelona,1,6,1.0,3.9,european_leagues,AWAY_WIN
+2022-11-27,193,Paris FC,Lyon,2,3,1.3,2.9,european_leagues,AWAY_WIN
+2022-11-27,183,MSV Duisburg,SV Meppen,1,0,0.9,1.1,european_leagues,HOME_WIN
+2022-11-27,183,Köln,Wolfsburg,0,4,0.4,2.0,european_leagues,AWAY_WIN
+2022-11-27,183,Bayern Munich,Essen,2,0,1.6,0.4,european_leagues,HOME_WIN
+2022-11-27,208,UC Sampdoria,Sassuolo,0,2,1.9,1.3,european_leagues,AWAY_WIN
+2022-11-27,208,Juventus,FC Como Women,1,1,2.6,1.8,european_leagues,DRAW
+2022-11-28,208,Parma Calcio 1913,Internazionale,2,2,1.4,1.4,european_leagues,DRAW
+2022-12-02,193,Montpellier,Fleury,1,1,1.1,1.5,european_leagues,DRAW
+2022-12-02,183,Hoffenheim,Bayern Munich,0,4,0.5,3.1,european_leagues,AWAY_WIN
+2022-12-03,230,Sevilla,UDG Tenerife,2,2,0.7,1.5,european_leagues,DRAW
+2022-12-03,230,Barcelona,Real Sociedad,2,1,2.6,1.6,european_leagues,HOME_WIN
+2022-12-03,230,Athletic Club,Madrid CFF,0,2,0.8,1.9,european_leagues,AWAY_WIN
+2022-12-03,230,Levante Planas,Real Madrid,1,4,1.2,2.2,european_leagues,AWAY_WIN
+2022-12-03,189,Manchester Utd,Aston Villa,5,0,2.3,0.4,european_leagues,HOME_WIN
+2022-12-03,189,Arsenal,Everton,1,0,3.1,1.3,european_leagues,HOME_WIN
+2022-12-03,189,Leicester City WFC,Chelsea,0,8,0.2,4.1,european_leagues,AWAY_WIN
+2022-12-03,193,Stade de Reims,Le Havre,3,1,2.0,0.6,european_leagues,HOME_WIN
+2022-12-03,193,Bordeaux,Rodez,3,1,2.9,0.4,european_leagues,HOME_WIN
+2022-12-03,193,Guingamp,Soyaux,3,1,2.6,1.1,european_leagues,HOME_WIN
+2022-12-03,193,Lyon,Dijon,8,0,2.7,0.2,european_leagues,HOME_WIN
+2022-12-03,183,Wolfsburg,E. Frankfurt,5,0,1.4,0.8,european_leagues,HOME_WIN
+2022-12-03,183,Freiburg,MSV Duisburg,4,1,3.5,0.1,european_leagues,HOME_WIN
+2022-12-03,208,ASD Calcio Pomigliano,UC Sampdoria,1,0,1.2,1.0,european_leagues,HOME_WIN
+2022-12-03,208,Internazionale,Juventus,0,2,1.2,2.3,european_leagues,AWAY_WIN
+2022-12-04,230,Valencia,Atlético Madrid,0,1,0.4,1.7,european_leagues,AWAY_WIN
+2022-12-04,230,Sporting Huelva,Alavés,2,2,1.7,0.4,european_leagues,DRAW
+2022-12-04,230,Alhama,Villarreal,0,1,0.6,1.1,european_leagues,AWAY_WIN
+2022-12-04,230,Real Betis,Levante,0,7,0.1,5.3,european_leagues,AWAY_WIN
+2022-12-04,189,Reading,Tottenham,1,0,1.3,0.9,european_leagues,HOME_WIN
+2022-12-04,189,Manchester City,Brighton,3,1,3.0,1.0,european_leagues,HOME_WIN
+2022-12-04,189,Liverpool,West Ham,2,0,2.3,0.3,european_leagues,HOME_WIN
+2022-12-04,193,Paris FC,Paris S-G,0,1,0.4,0.8,european_leagues,AWAY_WIN
+2022-12-04,183,Leverkusen,Turbine Potsdam,3,0,2.6,0.3,european_leagues,HOME_WIN
+2022-12-04,183,SV Meppen,Köln,1,0,0.7,0.9,european_leagues,HOME_WIN
+2022-12-04,183,Essen,Werder Bremen,0,0,2.0,0.7,european_leagues,DRAW
+2022-12-04,208,Sassuolo,Parma Calcio 1913,2,2,1.6,1.6,european_leagues,DRAW
+2022-12-04,208,AC Milan,AS Roma,0,2,0.6,1.5,european_leagues,AWAY_WIN
+2022-12-04,208,FC Como Women,Fiorentina,2,3,1.0,1.3,european_leagues,AWAY_WIN
+2019-04-13 00:00:00,NWSL,North Carolina Courage,Red Stars,1,1,1.1,1.7,nwsl,DRAW
+2019-04-13 00:00:00,NWSL,Washington Spirit,Sky Blue FC,2,0,1.5,1.0,nwsl,HOME_WIN
+2019-04-14 00:00:00,NWSL,Houston Dash,Reign,1,1,2.4,1.4,nwsl,DRAW
+2019-04-14 00:00:00,NWSL,Orlando Pride,Thorns,0,2,1.5,3.0,nwsl,AWAY_WIN
+2019-04-17 00:00:00,NWSL,North Carolina Courage,Pride,5,0,2.6,0.4,nwsl,HOME_WIN
+2019-04-20 00:00:00,NWSL,Chicago Stars,Thorns,4,4,3.1,2.9,nwsl,DRAW
+2019-04-20 00:00:00,NWSL,Sky Blue FC,Dash,0,1,1.2,2.4,nwsl,AWAY_WIN
+2019-04-20 00:00:00,NWSL,Utah Royals,Spirit,1,0,1.1,0.6,nwsl,HOME_WIN
+2019-04-21 00:00:00,NWSL,Seattle Reign FC,Pride,1,1,0.9,0.5,nwsl,DRAW
+2019-04-27 00:00:00,NWSL,Orlando Pride,Royals,0,1,0.8,1.8,nwsl,AWAY_WIN
+2019-04-28 00:00:00,NWSL,Chicago Stars,Reign,3,0,2.9,1.5,nwsl,HOME_WIN
+2019-04-28 00:00:00,NWSL,Sky Blue FC,Thorns,2,2,1.3,1.6,nwsl,DRAW
+2019-04-28 00:00:00,NWSL,Houston Dash,Courage,1,4,0.9,3.0,nwsl,AWAY_WIN
+2019-05-03 00:00:00,NWSL,Utah Royals,Red Stars,1,0,0.8,0.8,nwsl,HOME_WIN
+2019-05-04 00:00:00,NWSL,North Carolina Courage,Sky Blue FC,0,0,1.9,0.9,nwsl,DRAW
+2019-05-04 00:00:00,NWSL,Washington Spirit,Reign,0,0,1.0,1.6,nwsl,DRAW
+2019-05-05 00:00:00,NWSL,Houston Dash,Pride,1,0,1.3,0.6,nwsl,HOME_WIN
+2019-05-11 00:00:00,NWSL,Sky Blue FC,Spirit,2,3,1.4,1.8,nwsl,AWAY_WIN
+2019-05-11 00:00:00,NWSL,Orlando Pride,Thorns,1,3,1.0,2.1,nwsl,AWAY_WIN
+2019-05-11 00:00:00,NWSL,Utah Royals,Dash,1,2,0.6,0.6,nwsl,AWAY_WIN
+2019-05-12 00:00:00,NWSL,Chicago Stars,Courage,3,1,1.9,2.1,nwsl,HOME_WIN
+2019-05-18 00:00:00,NWSL,Seattle Reign FC,Sky Blue FC,2,1,2.5,1.5,nwsl,HOME_WIN
+2019-05-18 00:00:00,NWSL,Washington Spirit,Thorns,3,1,1.2,1.6,nwsl,HOME_WIN
+2019-05-19 00:00:00,NWSL,Houston Dash,Red Stars,1,2,0.5,2.5,nwsl,AWAY_WIN
+2019-05-19 00:00:00,NWSL,North Carolina Courage,Royals,1,1,1.8,0.3,nwsl,DRAW
+2019-05-25 00:00:00,NWSL,Sky Blue FC,Thorns,0,1,0.5,2.2,nwsl,AWAY_WIN
+2019-05-25 00:00:00,NWSL,Utah Royals,Pride,2,0,3.2,1.1,nwsl,HOME_WIN
+2019-05-26 00:00:00,NWSL,Chicago Stars,Spirit,0,2,1.4,0.7,nwsl,AWAY_WIN
+2019-05-27 00:00:00,NWSL,Seattle Reign FC,Courage,2,1,0.9,1.5,nwsl,HOME_WIN
+2019-06-01 00:00:00,NWSL,Orlando Pride,Courage,0,3,0.9,1.4,nwsl,AWAY_WIN
+2019-06-01 00:00:00,NWSL,Washington Spirit,Royals,2,0,0.9,0.6,nwsl,HOME_WIN
+2019-06-02 00:00:00,NWSL,Portland Thorns FC,Red Stars,3,0,3.1,1.6,nwsl,HOME_WIN
+2019-06-02 00:00:00,NWSL,Seattle Reign FC,Dash,1,1,1.8,1.4,nwsl,DRAW
+2019-06-15 00:00:00,NWSL,Houston Dash,Pride,2,2,2.5,1.1,nwsl,DRAW
+2019-06-15 00:00:00,NWSL,North Carolina Courage,Thorns,1,1,1.3,0.5,nwsl,DRAW
+2019-06-15 00:00:00,NWSL,Seattle Reign FC,Spirit,1,1,2.2,0.8,nwsl,DRAW
+2019-06-15 00:00:00,NWSL,Utah Royals,Sky Blue FC,1,0,1.6,1.6,nwsl,HOME_WIN
+2019-06-21 00:00:00,NWSL,Portland Thorns FC,Royals,0,0,1.2,0.3,nwsl,DRAW
+2019-06-22 00:00:00,NWSL,Sky Blue FC,Pride,1,2,2.8,1.3,nwsl,AWAY_WIN
+2019-06-22 00:00:00,NWSL,Washington Spirit,Dash,0,0,1.4,0.2,nwsl,DRAW
+2019-06-23 00:00:00,NWSL,Chicago Stars,Reign,0,1,0.7,2.0,nwsl,AWAY_WIN
+2019-06-28 00:00:00,NWSL,Utah Royals,Reign,0,2,1.0,1.8,nwsl,AWAY_WIN
+2019-06-29 00:00:00,NWSL,Houston Dash,Thorns,1,2,1.7,0.9,nwsl,AWAY_WIN
+2019-06-29 00:00:00,NWSL,Washington Spirit,Courage,1,2,0.9,2.4,nwsl,AWAY_WIN
+2019-06-30 00:00:00,NWSL,Orlando Pride,Red Stars,2,3,1.9,2.3,nwsl,AWAY_WIN
+2019-07-05 00:00:00,NWSL,North Carolina Courage,Dash,5,2,2.6,0.9,nwsl,HOME_WIN
+2019-07-05 00:00:00,NWSL,Portland Thorns FC,Reign,0,1,1.1,0.3,nwsl,AWAY_WIN
+2019-07-06 00:00:00,NWSL,Chicago Stars,Sky Blue FC,1,2,2.6,1.6,nwsl,AWAY_WIN
+2019-07-06 00:00:00,NWSL,Orlando Pride,Spirit,4,3,3.1,3.1,nwsl,HOME_WIN
+2019-07-12 00:00:00,NWSL,Sky Blue FC,Royals,1,0,1.5,0.8,nwsl,HOME_WIN
+2019-07-13 00:00:00,NWSL,Houston Dash,Red Stars,0,1,0.5,0.3,nwsl,AWAY_WIN
+2019-07-13 00:00:00,NWSL,North Carolina Courage,Reign,2,0,1.8,0.4,nwsl,HOME_WIN
+2019-07-14 00:00:00,NWSL,Portland Thorns FC,Pride,4,3,2.9,0.5,nwsl,HOME_WIN
+2019-07-19 00:00:00,NWSL,Utah Royals,Thorns,2,2,1.9,0.2,nwsl,DRAW
+2019-07-20 00:00:00,NWSL,Orlando Pride,Sky Blue FC,1,0,2.1,0.4,nwsl,HOME_WIN
+2019-07-20 00:00:00,NWSL,Washington Spirit,Dash,1,2,1.6,0.9,nwsl,AWAY_WIN
+2019-07-21 00:00:00,NWSL,Chicago Stars,Courage,2,1,1.7,3.2,nwsl,HOME_WIN
+2019-07-24 00:00:00,NWSL,Sky Blue FC,Spirit,0,1,0.3,1.3,nwsl,AWAY_WIN
+2019-07-24 00:00:00,NWSL,Portland Thorns FC,Dash,5,0,3.6,0.8,nwsl,HOME_WIN
+2019-07-27 00:00:00,NWSL,Utah Royals,Courage,1,2,0.4,1.1,nwsl,AWAY_WIN
+2019-07-28 00:00:00,NWSL,Houston Dash,Sky Blue FC,1,0,1.8,0.5,nwsl,HOME_WIN
+2019-07-28 00:00:00,NWSL,Seattle Reign FC,Red Stars,0,4,2.0,2.4,nwsl,AWAY_WIN
+2019-08-02 00:00:00,NWSL,Houston Dash,Reign,0,1,1.6,0.9,nwsl,AWAY_WIN
+2019-08-02 00:00:00,NWSL,North Carolina Courage,Spirit,1,0,2.5,0.7,nwsl,HOME_WIN
+2019-08-03 00:00:00,NWSL,Chicago Stars,Royals,2,0,3.0,1.7,nwsl,HOME_WIN
+2019-08-03 00:00:00,NWSL,Portland Thorns FC,Sky Blue FC,1,1,2.3,0.7,nwsl,DRAW
+2019-08-07 00:00:00,NWSL,Seattle Reign FC,Thorns,1,0,1.8,1.1,nwsl,HOME_WIN
+2019-08-07 00:00:00,NWSL,Utah Royals,Sky Blue FC,3,0,3.5,0.5,nwsl,HOME_WIN
+2019-08-10 00:00:00,NWSL,Orlando Pride,Dash,0,1,1.4,1.8,nwsl,AWAY_WIN
+2019-08-10 00:00:00,NWSL,Washington Spirit,Red Stars,0,1,0.5,2.0,nwsl,AWAY_WIN
+2019-08-11 00:00:00,NWSL,Portland Thorns FC,Courage,2,1,1.7,2.9,nwsl,HOME_WIN
+2019-08-11 00:00:00,NWSL,Seattle Reign FC,Royals,1,3,1.3,2.4,nwsl,AWAY_WIN
+2019-08-14 00:00:00,NWSL,Sky Blue FC,Red Stars,2,1,0.8,2.0,nwsl,HOME_WIN
+2019-08-17 00:00:00,NWSL,Orlando Pride,Royals,0,2,1.2,2.4,nwsl,AWAY_WIN
+2019-08-17 00:00:00,NWSL,Portland Thorns FC,Spirit,3,1,1.1,0.9,nwsl,HOME_WIN
+2019-08-18 00:00:00,NWSL,Sky Blue FC,Reign,1,1,0.7,2.0,nwsl,DRAW
+2019-08-21 00:00:00,NWSL,Chicago Stars,Pride,1,2,1.0,0.7,nwsl,AWAY_WIN
+2019-08-21 00:00:00,NWSL,Washington Spirit,Royals,0,0,0.9,0.6,nwsl,DRAW
+2019-08-24 00:00:00,NWSL,Houston Dash,Sky Blue FC,1,2,1.8,1.8,nwsl,AWAY_WIN
+2019-08-24 00:00:00,NWSL,North Carolina Courage,Reign,1,0,2.7,1.1,nwsl,HOME_WIN
+2019-08-24 00:00:00,NWSL,Washington Spirit,Pride,2,1,2.1,1.7,nwsl,HOME_WIN
+2019-08-25 00:00:00,NWSL,Portland Thorns FC,Red Stars,3,0,2.8,1.0,nwsl,HOME_WIN
+2019-09-06 00:00:00,NWSL,Utah Royals,Thorns,1,0,0.5,1.5,nwsl,HOME_WIN
+2019-09-07 00:00:00,NWSL,Sky Blue FC,Courage,1,2,2.3,1.6,nwsl,AWAY_WIN
+2019-09-07 00:00:00,NWSL,Seattle Reign FC,Pride,3,1,1.3,1.3,nwsl,HOME_WIN
+2019-09-08 00:00:00,NWSL,Chicago Stars,Dash,3,0,2.2,0.2,nwsl,HOME_WIN
+2019-09-11 00:00:00,NWSL,Orlando Pride,Red Stars,0,1,1.3,1.8,nwsl,AWAY_WIN
+2019-09-11 00:00:00,NWSL,Portland Thorns FC,Courage,0,6,0.7,2.6,nwsl,AWAY_WIN
+2019-09-13 00:00:00,NWSL,Houston Dash,Royals,2,1,1.4,1.1,nwsl,HOME_WIN
+2019-09-14 00:00:00,NWSL,North Carolina Courage,Pride,6,1,5.5,0.5,nwsl,HOME_WIN
+2019-09-14 00:00:00,NWSL,Washington Spirit,Reign,2,2,1.7,1.4,nwsl,DRAW
+2019-09-15 00:00:00,NWSL,Sky Blue FC,Red Stars,0,3,1.3,1.8,nwsl,AWAY_WIN
+2019-09-17 00:00:00,NWSL,North Carolina Courage,Dash,1,0,2.2,0.7,nwsl,HOME_WIN
+2019-09-21 00:00:00,NWSL,Chicago Stars,Spirit,3,1,1.1,1.3,nwsl,HOME_WIN
+2019-09-21 00:00:00,NWSL,Portland Thorns FC,Dash,1,0,1.5,1.3,nwsl,HOME_WIN
+2019-09-21 00:00:00,NWSL,Seattle Reign FC,Sky Blue FC,0,1,2.7,1.4,nwsl,AWAY_WIN
+2019-09-21 00:00:00,NWSL,Utah Royals,Courage,0,3,0.6,1.8,nwsl,AWAY_WIN
+2019-09-25 00:00:00,NWSL,Houston Dash,Spirit,0,0,0.6,1.4,nwsl,DRAW
+2019-09-25 00:00:00,NWSL,Seattle Reign FC,Royals,2,1,1.6,1.5,nwsl,HOME_WIN
+2019-09-28 00:00:00,NWSL,Chicago Stars,Royals,2,1,1.5,1.3,nwsl,HOME_WIN
+2019-09-28 00:00:00,NWSL,Washington Spirit,Courage,2,1,0.3,2.9,nwsl,HOME_WIN
+2019-09-29 00:00:00,NWSL,Sky Blue FC,Pride,1,1,1.4,1.7,nwsl,DRAW
+2019-09-29 00:00:00,NWSL,Seattle Reign FC,Thorns,2,0,1.9,1.0,nwsl,HOME_WIN
+2019-10-05 00:00:00,NWSL,Orlando Pride,Spirit,0,3,0.4,1.0,nwsl,AWAY_WIN
+2019-10-12 00:00:00,NWSL,North Carolina Courage,Sky Blue FC,3,2,2.1,0.9,nwsl,HOME_WIN
+2019-10-12 00:00:00,NWSL,Orlando Pride,Reign,2,2,2.2,1.9,nwsl,DRAW
+2019-10-12 00:00:00,NWSL,Portland Thorns FC,Spirit,0,0,3.0,0.2,nwsl,DRAW
+2019-10-12 00:00:00,NWSL,Utah Royals,Dash,2,1,2.6,0.7,nwsl,HOME_WIN
+2019-10-20 00:00:00,NWSL,Chicago Stars,Thorns,1,0,1.4,0.5,nwsl,HOME_WIN
+2019-10-20 00:00:00,NWSL,North Carolina Courage,Reign,4,1,5.5,0.3,nwsl,HOME_WIN
+2019-10-27 00:00:00,NWSL,North Carolina Courage,Red Stars,4,0,2.8,1.3,nwsl,HOME_WIN
+2021-05-15 00:00:00,NWSL,Gotham FC,Dash,1,0,0.7,2.1,nwsl,HOME_WIN
+2021-05-15 00:00:00,NWSL,Racing Louisville,Kansas City,0,0,0.8,0.5,nwsl,DRAW
+2021-05-15 00:00:00,NWSL,Seattle Reign FC,Courage,0,0,0.7,1.6,nwsl,DRAW
+2021-05-16 00:00:00,NWSL,Orlando Pride,Spirit,1,1,1.4,2.1,nwsl,DRAW
+2021-05-16 00:00:00,NWSL,Portland Thorns FC,Red Stars,5,0,3.6,0.2,nwsl,HOME_WIN
+2021-05-21 00:00:00,NWSL,Racing Louisville,Spirit,2,0,1.3,3.0,nwsl,HOME_WIN
+2021-05-22 00:00:00,NWSL,Chicago Stars,Gotham FC,0,0,1.2,0.3,nwsl,DRAW
+2021-05-22 00:00:00,NWSL,North Carolina Courage,Pride,1,2,1.8,0.9,nwsl,AWAY_WIN
+2021-05-23 00:00:00,NWSL,Houston Dash,Kansas City,2,2,1.6,1.2,nwsl,DRAW
+2021-05-23 00:00:00,NWSL,Portland Thorns FC,Reign,1,2,2.1,1.1,nwsl,AWAY_WIN
+2021-05-26 00:00:00,NWSL,Kansas City Current,Red Stars,0,2,1.7,1.2,nwsl,AWAY_WIN
+2021-05-26 00:00:00,NWSL,Orlando Pride,Thorns,2,1,0.9,1.1,nwsl,HOME_WIN
+2021-05-26 00:00:00,NWSL,Washington Spirit,Dash,2,1,1.0,3.0,nwsl,HOME_WIN
+2021-05-28 00:00:00,NWSL,North Carolina Courage,Louisville,5,0,4.0,0.3,nwsl,HOME_WIN
+2021-05-29 00:00:00,NWSL,Houston Dash,Red Stars,2,1,1.4,1.3,nwsl,HOME_WIN
+2021-05-30 00:00:00,NWSL,Gotham FC,Thorns,0,1,0.7,1.5,nwsl,AWAY_WIN
+2021-05-30 00:00:00,NWSL,Orlando Pride,Kansas City,1,0,2.1,0.7,nwsl,HOME_WIN
+2021-05-30 00:00:00,NWSL,Seattle Reign FC,Spirit,0,1,0.6,0.8,nwsl,AWAY_WIN
+2021-06-05 00:00:00,NWSL,Chicago Stars,Courage,1,0,1.9,0.6,nwsl,HOME_WIN
+2021-06-05 00:00:00,NWSL,Gotham FC,Reign,1,0,0.7,2.0,nwsl,HOME_WIN
+2021-06-05 00:00:00,NWSL,Portland Thorns FC,Louisville,3,0,3.3,0.3,nwsl,HOME_WIN
+2021-06-06 00:00:00,NWSL,Kansas City Current,Dash,0,1,1.2,1.3,nwsl,AWAY_WIN
+2021-06-06 00:00:00,NWSL,Washington Spirit,Pride,1,1,1.3,0.4,nwsl,DRAW
+2021-06-19 00:00:00,NWSL,Chicago Stars,Spirit,1,1,1.7,1.1,nwsl,DRAW
+2021-06-19 00:00:00,NWSL,North Carolina Courage,Reign,2,1,1.6,1.0,nwsl,HOME_WIN
+2021-06-20 00:00:00,NWSL,Orlando Pride,Gotham FC,1,1,2.2,0.7,nwsl,DRAW
+2021-06-20 00:00:00,NWSL,Portland Thorns FC,Kansas City,1,0,3.3,0.8,nwsl,HOME_WIN
+2021-06-20 00:00:00,NWSL,Racing Louisville,Dash,1,0,2.4,2.7,nwsl,HOME_WIN
+2021-06-22 00:00:00,NWSL,Seattle Reign FC,Red Stars,2,0,2.4,0.6,nwsl,HOME_WIN
+2021-06-23 00:00:00,NWSL,Kansas City Current,Pride,1,3,1.7,1.2,nwsl,AWAY_WIN
+2021-06-23 00:00:00,NWSL,Racing Louisville,Courage,0,2,0.4,2.2,nwsl,AWAY_WIN
+2021-06-26 00:00:00,NWSL,Chicago Stars,Louisville,0,3,1.7,1.4,nwsl,AWAY_WIN
+2021-06-26 00:00:00,NWSL,Houston Dash,Pride,2,1,1.5,0.8,nwsl,HOME_WIN
+2021-06-26 00:00:00,NWSL,Kansas City Current,Spirit,1,2,1.1,1.4,nwsl,AWAY_WIN
+2021-06-26 00:00:00,NWSL,North Carolina Courage,Thorns,2,0,1.8,1.5,nwsl,HOME_WIN
+2021-06-26 00:00:00,NWSL,Seattle Reign FC,Gotham FC,0,3,2.0,2.5,nwsl,AWAY_WIN
+2021-07-02 00:00:00,NWSL,Gotham FC,Kansas City,1,1,1.1,0.4,nwsl,DRAW
+2021-07-02 00:00:00,NWSL,Houston Dash,Reign,2,0,2.3,0.9,nwsl,HOME_WIN
+2021-07-02 00:00:00,NWSL,Washington Spirit,Red Stars,0,1,0.5,0.5,nwsl,AWAY_WIN
+2021-07-03 00:00:00,NWSL,Racing Louisville,Thorns,0,2,0.4,2.2,nwsl,AWAY_WIN
+2021-07-04 00:00:00,NWSL,Orlando Pride,Courage,0,2,1.4,2.4,nwsl,AWAY_WIN
+2021-07-09 00:00:00,NWSL,Orlando Pride,Louisville,1,1,1.1,0.5,nwsl,DRAW
+2021-07-10 00:00:00,NWSL,Washington Spirit,Courage,2,0,2.7,1.6,nwsl,HOME_WIN
+2021-07-11 00:00:00,NWSL,Chicago Stars,Dash,2,1,0.3,0.2,nwsl,HOME_WIN
+2021-07-11 00:00:00,NWSL,Portland Thorns FC,Gotham FC,0,0,2.1,0.8,nwsl,DRAW
+2021-07-11 00:00:00,NWSL,Seattle Reign FC,Kansas City,2,0,1.9,0.8,nwsl,HOME_WIN
+2021-07-17 00:00:00,NWSL,North Carolina Courage,Dash,1,2,1.7,0.8,nwsl,AWAY_WIN
+2021-07-18 00:00:00,NWSL,Chicago Stars,Reign,3,1,0.4,1.2,nwsl,HOME_WIN
+2021-07-18 00:00:00,NWSL,Portland Thorns FC,Pride,2,1,2.4,0.3,nwsl,HOME_WIN
+2021-07-18 00:00:00,NWSL,Washington Spirit,Gotham FC,2,3,1.7,3.4,nwsl,AWAY_WIN
+2021-07-23 00:00:00,NWSL,Kansas City Current,Courage,0,0,1.0,0.7,nwsl,DRAW
+2021-07-24 00:00:00,NWSL,Houston Dash,Thorns,0,1,0.7,1.2,nwsl,AWAY_WIN
+2021-07-24 00:00:00,NWSL,Orlando Pride,Reign,0,2,0.8,2.1,nwsl,AWAY_WIN
+2021-07-25 00:00:00,NWSL,Gotham FC,Red Stars,2,1,1.4,1.2,nwsl,HOME_WIN
+2021-07-25 00:00:00,NWSL,Racing Louisville,Spirit,0,2,1.5,1.7,nwsl,AWAY_WIN
+2021-07-31 00:00:00,NWSL,North Carolina Courage,Pride,1,1,1.2,1.0,nwsl,DRAW
+2021-07-31 00:00:00,NWSL,Seattle Reign FC,Louisville,2,0,1.4,1.4,nwsl,HOME_WIN
+2021-08-01 00:00:00,NWSL,Chicago Stars,Spirit,3,1,2.6,1.7,nwsl,HOME_WIN
+2021-08-01 00:00:00,NWSL,Houston Dash,Gotham FC,1,1,2.0,1.6,nwsl,DRAW
+2021-08-01 00:00:00,NWSL,Portland Thorns FC,Kansas City,2,0,1.6,1.5,nwsl,HOME_WIN
+2021-08-07 00:00:00,NWSL,Gotham FC,Courage,0,1,0.7,1.3,nwsl,AWAY_WIN
+2021-08-07 00:00:00,NWSL,Seattle Reign FC,Dash,5,1,2.6,0.6,nwsl,HOME_WIN
+2021-08-07 00:00:00,NWSL,Washington Spirit,Thorns,0,1,0.8,1.5,nwsl,AWAY_WIN
+2021-08-08 00:00:00,NWSL,Chicago Stars,Pride,0,2,1.5,1.2,nwsl,AWAY_WIN
+2021-08-08 00:00:00,NWSL,Racing Louisville,Kansas City,3,1,2.5,1.9,nwsl,HOME_WIN
+2021-08-13 00:00:00,NWSL,Houston Dash,Spirit,2,2,2.1,1.0,nwsl,DRAW
+2021-08-14 00:00:00,NWSL,Kansas City Current,Reign,1,0,1.0,0.8,nwsl,HOME_WIN
+2021-08-14 00:00:00,NWSL,Orlando Pride,Thorns,1,1,1.4,0.8,nwsl,DRAW
+2021-08-15 00:00:00,NWSL,Gotham FC,Louisville,1,1,0.5,2.2,nwsl,DRAW
+2021-08-15 00:00:00,NWSL,North Carolina Courage,Red Stars,1,0,2.2,1.0,nwsl,HOME_WIN
+2021-08-18 00:00:00,NWSL,Racing Louisville,Red Stars,1,1,0.8,2.3,nwsl,DRAW
+2021-08-21 00:00:00,NWSL,North Carolina Courage,Kansas City,4,0,1.2,1.7,nwsl,HOME_WIN
+2021-08-21 00:00:00,NWSL,Seattle Reign FC,Gotham FC,3,2,3.4,1.3,nwsl,HOME_WIN
+2021-08-22 00:00:00,NWSL,Washington Spirit,Pride,2,1,1.9,1.0,nwsl,HOME_WIN
+2021-08-25 00:00:00,NWSL,Kansas City Current,Louisville,2,1,1.5,0.9,nwsl,HOME_WIN
+2021-08-25 00:00:00,NWSL,Portland Thorns FC,Gotham FC,2,1,2.8,0.6,nwsl,HOME_WIN
+2021-08-28 00:00:00,NWSL,Chicago Stars,Kansas City,3,0,3.2,0.6,nwsl,HOME_WIN
+2021-08-29 00:00:00,NWSL,Gotham FC,Pride,0,1,1.3,0.3,nwsl,AWAY_WIN
+2021-08-29 00:00:00,NWSL,Houston Dash,Louisville,1,0,1.3,1.4,nwsl,HOME_WIN
+2021-08-29 00:00:00,NWSL,Seattle Reign FC,Thorns,2,1,1.9,1.2,nwsl,HOME_WIN
+2021-08-29 00:00:00,NWSL,Washington Spirit,Courage,0,0,1.3,1.2,nwsl,DRAW
+2021-09-01 00:00:00,NWSL,Houston Dash,Reign,0,1,0.8,1.8,nwsl,AWAY_WIN
+2021-09-04 00:00:00,NWSL,Gotham FC,Red Stars,0,0,1.1,2.2,nwsl,DRAW
+2021-09-04 00:00:00,NWSL,Racing Louisville,Reign,1,1,0.8,2.1,nwsl,DRAW
+2021-09-05 00:00:00,NWSL,Kansas City Current,Courage,0,0,1.4,1.2,nwsl,DRAW
+2021-09-05 00:00:00,NWSL,Orlando Pride,Dash,1,1,0.4,1.1,nwsl,DRAW
+2021-09-10 00:00:00,NWSL,Houston Dash,Red Stars,1,1,1.0,2.0,nwsl,DRAW
+2021-09-11 00:00:00,NWSL,Orlando Pride,Louisville,3,1,1.6,0.9,nwsl,HOME_WIN
+2021-09-12 00:00:00,NWSL,North Carolina Courage,Thorns,0,1,1.1,1.5,nwsl,AWAY_WIN
+2021-09-25 00:00:00,NWSL,Chicago Stars,Thorns,2,1,1.5,0.7,nwsl,HOME_WIN
+2021-09-25 00:00:00,NWSL,Gotham FC,Courage,3,1,2.4,0.4,nwsl,HOME_WIN
+2021-09-26 00:00:00,NWSL,Racing Louisville,Dash,0,4,0.2,1.8,nwsl,AWAY_WIN
+2021-09-26 00:00:00,NWSL,Seattle Reign FC,Pride,3,0,3.1,0.6,nwsl,HOME_WIN
+2021-09-26 00:00:00,NWSL,Washington Spirit,Kansas City,2,1,1.2,0.8,nwsl,HOME_WIN
+2021-10-06 00:00:00,NWSL,Gotham FC,Spirit,0,0,1.1,0.6,nwsl,DRAW
+2021-10-06 00:00:00,NWSL,North Carolina Courage,Louisville,3,1,3.4,0.6,nwsl,HOME_WIN
+2021-10-06 00:00:00,NWSL,Portland Thorns FC,Dash,2,3,2.1,2.8,nwsl,AWAY_WIN
+2021-10-09 00:00:00,NWSL,Orlando Pride,Gotham FC,2,3,2.1,2.2,nwsl,AWAY_WIN
+2021-10-09 00:00:00,NWSL,Washington Spirit,Louisville,3,0,3.6,0.6,nwsl,HOME_WIN
+2021-10-10 00:00:00,NWSL,Houston Dash,Courage,4,1,3.0,1.3,nwsl,HOME_WIN
+2021-10-10 00:00:00,NWSL,Kansas City Current,Thorns,0,0,0.4,1.6,nwsl,DRAW
+2021-10-10 00:00:00,NWSL,Seattle Reign FC,Red Stars,3,2,1.8,1.7,nwsl,HOME_WIN
+2021-10-13 00:00:00,NWSL,Chicago Stars,Pride,1,0,1.8,1.4,nwsl,HOME_WIN
+2021-10-13 00:00:00,NWSL,Kansas City Current,Dash,3,0,2.2,0.3,nwsl,HOME_WIN
+2021-10-13 00:00:00,NWSL,North Carolina Courage,Spirit,1,2,1.7,0.9,nwsl,AWAY_WIN
+2021-10-13 00:00:00,NWSL,Portland Thorns FC,Reign,1,1,1.3,1.7,nwsl,DRAW
+2021-10-16 00:00:00,NWSL,Chicago Stars,Kansas City,2,1,2.4,0.8,nwsl,HOME_WIN
+2021-10-16 00:00:00,NWSL,Racing Louisville,Pride,3,1,1.3,1.6,nwsl,HOME_WIN
+2021-10-16 00:00:00,NWSL,Seattle Reign FC,Spirit,0,2,1.0,1.2,nwsl,AWAY_WIN
+2021-10-17 00:00:00,NWSL,Houston Dash,Thorns,0,1,1.3,2.3,nwsl,AWAY_WIN
+2021-10-17 00:00:00,NWSL,North Carolina Courage,Gotham FC,0,3,2.4,2.1,nwsl,AWAY_WIN
+2021-10-22 00:00:00,NWSL,Kansas City Current,Gotham FC,1,1,1.9,0.8,nwsl,DRAW
+2021-10-28 00:00:00,NWSL,Racing Louisville,Gotham FC,1,1,0.9,1.8,nwsl,DRAW
+2021-10-29 00:00:00,NWSL,Orlando Pride,Red Stars,0,1,0.2,1.1,nwsl,AWAY_WIN
+2021-10-30 00:00:00,NWSL,Kansas City Current,Reign,0,3,0.8,2.8,nwsl,AWAY_WIN
+2021-10-30 00:00:00,NWSL,Portland Thorns FC,Courage,0,0,1.8,1.4,nwsl,DRAW
+2021-10-31 00:00:00,NWSL,Gotham FC,Louisville,1,1,1.6,1.4,nwsl,DRAW
+2021-10-31 00:00:00,NWSL,Washington Spirit,Dash,1,0,1.4,0.6,nwsl,HOME_WIN
+2021-11-07 00:00:00,NWSL,Chicago Stars,Gotham FC,1,0,0.6,0.3,nwsl,HOME_WIN
+2021-11-07 00:00:00,NWSL,Washington Spirit,Courage,1,0,2.0,1.4,nwsl,HOME_WIN
+2021-11-14 00:00:00,NWSL,Portland Thorns FC,Red Stars,0,2,1.0,0.2,nwsl,AWAY_WIN
+2021-11-14 00:00:00,NWSL,Seattle Reign FC,Spirit,1,2,3.5,1.5,nwsl,AWAY_WIN
+2021-11-20 00:00:00,NWSL,Washington Spirit,Red Stars,2,1,2.7,1.5,nwsl,HOME_WIN
+2023-03-25 00:00:00,NWSL,North Carolina Courage,Current,1,0,0.7,0.8,nwsl,HOME_WIN
+2023-03-25 00:00:00,NWSL,San Diego Wave,Red Stars,3,2,2.1,2.5,nwsl,HOME_WIN
+2023-03-26 00:00:00,NWSL,Angel City FC,Gotham FC,1,2,1.0,1.7,nwsl,AWAY_WIN
+2023-03-26 00:00:00,NWSL,Houston Dash,Louisville,0,0,1.3,1.2,nwsl,DRAW
+2023-03-26 00:00:00,NWSL,Portland Thorns FC,Pride,4,0,3.7,0.6,nwsl,HOME_WIN
+2023-03-26 00:00:00,NWSL,Washington Spirit,Reign,1,0,0.7,2.2,nwsl,HOME_WIN
+2023-04-01 00:00:00,NWSL,Chicago Stars,Dash,1,2,1.2,2.6,nwsl,AWAY_WIN
+2023-04-01 00:00:00,NWSL,Gotham FC,Reign,0,2,0.5,1.7,nwsl,AWAY_WIN
+2023-04-01 00:00:00,NWSL,Kansas City Current,Thorns,1,4,1.6,2.2,nwsl,AWAY_WIN
+2023-04-01 00:00:00,NWSL,Racing Louisville,Spirit,2,2,0.8,2.1,nwsl,DRAW
+2023-04-01 00:00:00,NWSL,San Diego Wave,Courage,3,1,1.7,1.2,nwsl,HOME_WIN
+2023-04-02 00:00:00,NWSL,Orlando Pride,Angel City,1,2,1.4,2.6,nwsl,AWAY_WIN
+2023-04-14 00:00:00,NWSL,Portland Thorns FC,Dash,1,1,2.7,1.4,nwsl,DRAW
+2023-04-15 00:00:00,NWSL,Angel City FC,Louisville,2,2,1.9,1.9,nwsl,DRAW
+2023-04-15 00:00:00,NWSL,Chicago Stars,Current,4,2,0.7,1.5,nwsl,HOME_WIN
+2023-04-15 00:00:00,NWSL,North Carolina Courage,Spirit,1,2,1.7,1.4,nwsl,AWAY_WIN
+2023-04-15 00:00:00,NWSL,Seattle Reign FC,Wave,1,0,0.8,1.1,nwsl,HOME_WIN
+2023-04-15 00:00:00,NWSL,Orlando Pride,Gotham FC,0,2,0.7,2.2,nwsl,AWAY_WIN
+2023-04-22 00:00:00,NWSL,Gotham FC,Courage,1,0,1.3,1.2,nwsl,HOME_WIN
+2023-04-22 00:00:00,NWSL,Portland Thorns FC,Louisville,2,0,1.4,0.8,nwsl,HOME_WIN
+2023-04-22 00:00:00,NWSL,Seattle Reign FC,Red Stars,5,2,1.1,0.7,nwsl,HOME_WIN
+2023-04-22 00:00:00,NWSL,Washington Spirit,Dash,0,0,0.8,0.4,nwsl,DRAW
+2023-04-23 00:00:00,NWSL,Angel City FC,Wave,0,2,0.8,0.4,nwsl,AWAY_WIN
+2023-04-23 00:00:00,NWSL,Kansas City Current,Pride,2,0,1.4,1.1,nwsl,HOME_WIN
+2023-04-28 00:00:00,NWSL,Houston Dash,Courage,0,1,0.3,0.6,nwsl,AWAY_WIN
+2023-04-29 00:00:00,NWSL,Chicago Stars,Spirit,1,1,1.2,3.1,nwsl,DRAW
+2023-04-29 00:00:00,NWSL,Portland Thorns FC,Angel City,3,3,2.2,1.0,nwsl,DRAW
+2023-04-29 00:00:00,NWSL,Racing Louisville,Reign,2,2,1.2,1.5,nwsl,DRAW
+2023-04-29 00:00:00,NWSL,San Diego Wave,Pride,1,3,1.3,0.8,nwsl,AWAY_WIN
+2023-04-30 00:00:00,NWSL,Kansas City Current,Gotham FC,2,0,2.8,1.1,nwsl,HOME_WIN
+2023-05-06 00:00:00,NWSL,North Carolina Courage,Thorns,3,3,1.0,1.9,nwsl,DRAW
+2023-05-06 00:00:00,NWSL,Seattle Reign FC,Dash,2,0,1.1,0.4,nwsl,HOME_WIN
+2023-05-06 00:00:00,NWSL,Washington Spirit,Wave,3,1,2.1,0.7,nwsl,HOME_WIN
+2023-05-06 00:00:00,NWSL,Orlando Pride,Louisville,1,0,1.7,1.3,nwsl,HOME_WIN
+2023-05-07 00:00:00,NWSL,Angel City FC,Current,3,2,1.7,1.8,nwsl,HOME_WIN
+2023-05-07 00:00:00,NWSL,Chicago Stars,Gotham FC,1,2,0.9,1.8,nwsl,AWAY_WIN
+2023-05-12 00:00:00,NWSL,Houston Dash,Thorns,2,1,1.2,1.3,nwsl,HOME_WIN
+2023-05-12 00:00:00,NWSL,Racing Louisville,Red Stars,3,0,2.1,0.5,nwsl,HOME_WIN
+2023-05-13 00:00:00,NWSL,Angel City FC,Spirit,0,1,0.5,1.7,nwsl,AWAY_WIN
+2023-05-14 00:00:00,NWSL,Gotham FC,Pride,0,0,0.4,1.3,nwsl,DRAW
+2023-05-14 00:00:00,NWSL,Kansas City Current,Wave,0,2,1.5,1.3,nwsl,AWAY_WIN
+2023-05-14 00:00:00,NWSL,North Carolina Courage,Reign,1,0,0.9,0.9,nwsl,HOME_WIN
+2023-05-20 00:00:00,NWSL,Houston Dash,Wave,0,3,0.7,1.1,nwsl,AWAY_WIN
+2023-05-20 00:00:00,NWSL,Kansas City Current,Louisville,0,2,1.7,1.5,nwsl,AWAY_WIN
+2023-05-20 00:00:00,NWSL,North Carolina Courage,Angel City,0,0,1.0,0.6,nwsl,DRAW
+2023-05-20 00:00:00,NWSL,Orlando Pride,Spirit,2,1,1.6,0.6,nwsl,HOME_WIN
+2023-05-21 00:00:00,NWSL,Portland Thorns FC,Red Stars,4,0,2.8,0.7,nwsl,HOME_WIN
+2023-05-21 00:00:00,NWSL,Seattle Reign FC,Gotham FC,1,4,1.3,1.9,nwsl,AWAY_WIN
+2023-05-26 00:00:00,NWSL,Kansas City Current,Dash,0,2,0.5,0.7,nwsl,AWAY_WIN
+2023-05-26 00:00:00,NWSL,San Diego Wave,Thorns,1,1,1.3,2.1,nwsl,DRAW
+2023-05-27 00:00:00,NWSL,Chicago Stars,Pride,1,0,0.5,2.3,nwsl,HOME_WIN
+2023-05-27 00:00:00,NWSL,Racing Louisville,Courage,1,2,2.3,0.9,nwsl,AWAY_WIN
+2023-05-27 00:00:00,NWSL,Seattle Reign FC,Angel City,4,1,2.7,0.5,nwsl,HOME_WIN
+2023-05-28 00:00:00,NWSL,Washington Spirit,Gotham FC,1,1,0.7,0.9,nwsl,DRAW
+2023-06-03 00:00:00,NWSL,Houston Dash,Pride,2,0,1.2,1.4,nwsl,HOME_WIN
+2023-06-03 00:00:00,NWSL,Kansas City Current,Courage,1,0,0.9,0.7,nwsl,HOME_WIN
+2023-06-03 00:00:00,NWSL,Seattle Reign FC,Thorns,0,2,1.5,2.0,nwsl,AWAY_WIN
+2023-06-03 00:00:00,NWSL,Washington Spirit,Louisville,1,1,2.6,1.3,nwsl,DRAW
+2023-06-04 00:00:00,NWSL,Gotham FC,Wave,0,1,0.8,1.5,nwsl,AWAY_WIN
+2023-06-05 00:00:00,NWSL,Angel City FC,Red Stars,1,2,1.5,0.5,nwsl,AWAY_WIN
+2023-06-09 00:00:00,NWSL,Racing Louisville,Wave,0,0,0.6,1.1,nwsl,DRAW
+2023-06-10 00:00:00,NWSL,Chicago Stars,Courage,0,5,1.2,2.3,nwsl,AWAY_WIN
+2023-06-10 00:00:00,NWSL,Seattle Reign FC,Current,2,1,2.0,0.6,nwsl,HOME_WIN
+2023-06-10 00:00:00,NWSL,Washington Spirit,Angel City,2,1,2.0,2.2,nwsl,HOME_WIN
+2023-06-11 00:00:00,NWSL,Houston Dash,Gotham FC,1,1,1.7,1.3,nwsl,DRAW
+2023-06-11 00:00:00,NWSL,Orlando Pride,Thorns,3,1,1.2,1.8,nwsl,HOME_WIN
+2023-06-17 00:00:00,NWSL,Houston Dash,Reign,0,0,1.6,0.9,nwsl,DRAW
+2023-06-17 00:00:00,NWSL,North Carolina Courage,Pride,3,0,1.7,0.8,nwsl,HOME_WIN
+2023-06-17 00:00:00,NWSL,San Diego Wave,Angel City,1,2,0.8,0.8,nwsl,AWAY_WIN
+2023-06-18 00:00:00,NWSL,Chicago Stars,Thorns,2,3,1.6,2.3,nwsl,AWAY_WIN
+2023-06-18 00:00:00,NWSL,Kansas City Current,Spirit,2,3,2.4,1.2,nwsl,AWAY_WIN
+2023-06-18 00:00:00,NWSL,Racing Louisville,Gotham FC,2,0,1.8,1.1,nwsl,HOME_WIN
+2023-06-23 00:00:00,NWSL,Portland Thorns FC,Spirit,4,2,1.4,1.9,nwsl,HOME_WIN
+2023-06-24 00:00:00,NWSL,North Carolina Courage,Louisville,1,0,1.0,0.6,nwsl,HOME_WIN
+2023-06-24 00:00:00,NWSL,San Diego Wave,Reign,1,2,1.0,0.7,nwsl,AWAY_WIN
+2023-06-24 00:00:00,NWSL,Orlando Pride,Current,1,2,1.9,1.2,nwsl,AWAY_WIN
+2023-06-25 00:00:00,NWSL,Angel City FC,Dash,0,0,1.4,1.1,nwsl,DRAW
+2023-06-25 00:00:00,NWSL,Gotham FC,Red Stars,2,1,0.9,1.3,nwsl,HOME_WIN
+2023-07-01 00:00:00,NWSL,Chicago Stars,Wave,1,0,1.4,1.5,nwsl,HOME_WIN
+2023-07-01 00:00:00,NWSL,North Carolina Courage,Dash,1,0,0.9,0.9,nwsl,HOME_WIN
+2023-07-01 00:00:00,NWSL,Portland Thorns FC,Current,0,1,1.3,1.1,nwsl,AWAY_WIN
+2023-07-01 00:00:00,NWSL,Seattle Reign FC,Louisville,2,2,0.6,0.9,nwsl,DRAW
+2023-07-01 00:00:00,NWSL,Washington Spirit,Pride,0,3,0.7,1.2,nwsl,AWAY_WIN
+2023-07-02 00:00:00,NWSL,Gotham FC,Angel City,0,0,1.3,0.8,nwsl,DRAW
+2023-07-07 00:00:00,NWSL,Houston Dash,Red Stars,0,1,0.6,1.3,nwsl,AWAY_WIN
+2023-07-07 00:00:00,NWSL,Racing Louisville,Current,2,1,1.7,1.2,nwsl,HOME_WIN
+2023-07-07 00:00:00,NWSL,Orlando Pride,Reign,1,0,1.7,0.3,nwsl,HOME_WIN
+2023-07-08 00:00:00,NWSL,San Diego Wave,Spirit,2,2,1.6,1.1,nwsl,DRAW
+2023-07-09 00:00:00,NWSL,Angel City FC,Courage,2,1,2.7,0.5,nwsl,HOME_WIN
+2023-07-09 00:00:00,NWSL,Gotham FC,Thorns,2,1,2.5,1.7,nwsl,HOME_WIN
+2023-08-18 00:00:00,NWSL,Kansas City Current,Reign,1,0,1.2,1.6,nwsl,HOME_WIN
+2023-08-19 00:00:00,NWSL,Houston Dash,Spirit,1,1,0.9,0.8,nwsl,DRAW
+2023-08-19 00:00:00,NWSL,Racing Louisville,Angel City,1,1,1.2,1.3,nwsl,DRAW
+2023-08-19 00:00:00,NWSL,San Diego Wave,Gotham FC,2,1,1.5,0.9,nwsl,HOME_WIN
+2023-08-20 00:00:00,NWSL,Portland Thorns FC,Courage,2,1,1.8,0.9,nwsl,HOME_WIN
+2023-08-20 00:00:00,NWSL,Orlando Pride,Red Stars,5,0,2.6,0.5,nwsl,HOME_WIN
+2023-08-25 00:00:00,NWSL,Orlando Pride,Wave,1,2,1.3,0.6,nwsl,AWAY_WIN
+2023-08-26 00:00:00,NWSL,Houston Dash,Current,1,1,1.0,1.2,nwsl,DRAW
+2023-08-27 00:00:00,NWSL,Angel City FC,Reign,2,1,1.1,1.6,nwsl,HOME_WIN
+2023-08-27 00:00:00,NWSL,Gotham FC,Louisville,0,0,1.5,0.9,nwsl,DRAW
+2023-08-27 00:00:00,NWSL,North Carolina Courage,Red Stars,1,1,1.7,1.0,nwsl,DRAW
+2023-08-27 00:00:00,NWSL,Washington Spirit,Thorns,1,1,1.3,1.2,nwsl,DRAW
+2023-09-01 00:00:00,NWSL,Kansas City Current,Angel City,0,1,1.6,1.0,nwsl,AWAY_WIN
+2023-09-02 00:00:00,NWSL,North Carolina Courage,Gotham FC,3,3,1.0,2.9,nwsl,DRAW
+2023-09-02 00:00:00,NWSL,Racing Louisville,Thorns,2,1,1.9,1.1,nwsl,HOME_WIN
+2023-09-03 00:00:00,NWSL,San Diego Wave,Dash,1,0,3.6,0.4,nwsl,HOME_WIN
+2023-09-03 00:00:00,NWSL,Seattle Reign FC,Pride,1,0,1.3,0.3,nwsl,HOME_WIN
+2023-09-03 00:00:00,NWSL,Washington Spirit,Red Stars,0,2,2.6,1.3,nwsl,AWAY_WIN
+2023-09-15 00:00:00,NWSL,Racing Louisville,Dash,0,1,1.4,1.2,nwsl,AWAY_WIN
+2023-09-16 00:00:00,NWSL,Gotham FC,Spirit,2,0,1.8,1.2,nwsl,HOME_WIN
+2023-09-16 00:00:00,NWSL,Portland Thorns FC,Reign,2,0,2.1,0.6,nwsl,HOME_WIN
+2023-09-16 00:00:00,NWSL,San Diego Wave,Current,1,2,1.7,0.8,nwsl,AWAY_WIN
+2023-09-17 00:00:00,NWSL,Chicago Stars,Angel City,2,2,0.5,1.4,nwsl,DRAW
+2023-09-17 00:00:00,NWSL,Orlando Pride,Courage,2,1,1.8,0.8,nwsl,HOME_WIN
+2023-09-30 00:00:00,NWSL,Chicago Stars,Louisville,1,0,0.9,1.4,nwsl,HOME_WIN
+2023-09-30 00:00:00,NWSL,Portland Thorns FC,Wave,0,2,1.0,0.5,nwsl,AWAY_WIN
+2023-09-30 00:00:00,NWSL,Washington Spirit,Current,2,1,1.7,1.1,nwsl,HOME_WIN
+2023-10-01 00:00:00,NWSL,Gotham FC,Dash,0,2,2.3,0.3,nwsl,AWAY_WIN
+2023-10-01 00:00:00,NWSL,Seattle Reign FC,Courage,1,1,0.6,2.8,nwsl,DRAW
+2023-10-02 00:00:00,NWSL,Angel City FC,Pride,0,1,2.1,0.6,nwsl,AWAY_WIN
+2023-10-06 00:00:00,NWSL,Racing Louisville,Pride,3,2,1.6,1.7,nwsl,HOME_WIN
+2023-10-06 00:00:00,NWSL,Seattle Reign FC,Spirit,0,0,0.8,1.7,nwsl,DRAW
+2023-10-07 00:00:00,NWSL,Kansas City Current,Red Stars,6,3,2.7,1.7,nwsl,HOME_WIN
+2023-10-07 00:00:00,NWSL,North Carolina Courage,Wave,0,0,1.2,0.1,nwsl,DRAW
+2023-10-07 00:00:00,NWSL,Portland Thorns FC,Gotham FC,1,0,0.7,0.3,nwsl,HOME_WIN
+2023-10-08 00:00:00,NWSL,Houston Dash,Angel City,1,2,2.8,2.2,nwsl,AWAY_WIN
+2023-10-15 00:00:00,NWSL,Angel City FC,Thorns,5,1,1.5,0.6,nwsl,HOME_WIN
+2023-10-15 00:00:00,NWSL,Chicago Stars,Reign,0,3,0.3,1.9,nwsl,AWAY_WIN
+2023-10-15 00:00:00,NWSL,Gotham FC,Current,2,2,1.3,0.7,nwsl,DRAW
+2023-10-15 00:00:00,NWSL,San Diego Wave,Louisville,2,0,2.2,0.4,nwsl,HOME_WIN
+2023-10-15 00:00:00,NWSL,Washington Spirit,Courage,0,1,1.0,1.2,nwsl,AWAY_WIN
+2023-10-15 00:00:00,NWSL,Orlando Pride,Dash,1,0,2.7,1.1,nwsl,HOME_WIN
+2023-10-20 00:00:00,NWSL,Seattle Reign FC,Angel City,1,0,0.6,0.2,nwsl,HOME_WIN
+2023-10-22 00:00:00,NWSL,North Carolina Courage,Gotham FC,0,2,0.6,1.0,nwsl,AWAY_WIN
+2023-11-05 00:00:00,NWSL,Portland Thorns FC,Gotham FC,0,1,0.6,0.5,nwsl,AWAY_WIN
+2023-11-05 00:00:00,NWSL,San Diego Wave,Reign,0,1,0.6,0.5,nwsl,AWAY_WIN
+2023-11-11 00:00:00,NWSL,Seattle Reign FC,Gotham FC,1,2,1.9,1.5,nwsl,AWAY_WIN
+2024-03-16 00:00:00,NWSL,Kansas City Current,Thorns,5,4,2.3,1.4,nwsl,HOME_WIN
+2024-03-16 00:00:00,NWSL,Racing Louisville,Pride,2,2,0.9,1.1,nwsl,DRAW
+2024-03-16 00:00:00,NWSL,Utah Royals,Red Stars,0,2,2.2,1.2,nwsl,AWAY_WIN
+2024-03-16 00:00:00,NWSL,North Carolina Courage,Dash,5,1,3.2,0.2,nwsl,HOME_WIN
+2024-03-17 00:00:00,NWSL,Angel City FC,Bay FC,0,1,1.9,1.0,nwsl,AWAY_WIN
+2024-03-17 00:00:00,NWSL,Seattle Reign FC,Spirit,1,0,1.6,0.0,nwsl,HOME_WIN
+2024-03-22 00:00:00,NWSL,Orlando Pride,Angel City,1,1,0.7,1.8,nwsl,DRAW
+2024-03-22 00:00:00,NWSL,Utah Royals,Courage,2,1,0.3,2.8,nwsl,HOME_WIN
+2024-03-23 00:00:00,NWSL,Chicago Stars,Reign,2,1,0.7,0.9,nwsl,HOME_WIN
+2024-03-23 00:00:00,NWSL,Houston Dash,Louisville,0,0,0.9,2.0,nwsl,DRAW
+2024-03-23 00:00:00,NWSL,San Diego Wave,Current,1,2,1.5,1.7,nwsl,AWAY_WIN
+2024-03-23 00:00:00,NWSL,Washington Spirit,Bay FC,2,1,2.1,0.8,nwsl,HOME_WIN
+2024-03-24 00:00:00,NWSL,Portland Thorns FC,Gotham FC,0,1,1.2,0.7,nwsl,AWAY_WIN
+2024-03-29 00:00:00,NWSL,Orlando Pride,Red Stars,1,1,1.9,0.9,nwsl,DRAW
+2024-03-29 00:00:00,NWSL,San Diego Wave,Reign,1,0,0.9,0.5,nwsl,HOME_WIN
+2024-03-30 00:00:00,NWSL,Bay FC,Dash,2,3,1.1,2.4,nwsl,AWAY_WIN
+2024-03-30 00:00:00,NWSL,Kansas City Current,Angel City,4,2,2.5,1.2,nwsl,HOME_WIN
+2024-03-30 00:00:00,NWSL,Portland Thorns FC,Louisville,2,2,2.0,1.4,nwsl,DRAW
+2024-03-30 00:00:00,NWSL,North Carolina Courage,Gotham FC,1,0,0.8,1.4,nwsl,HOME_WIN
+2024-03-31 00:00:00,NWSL,Washington Spirit,Royals,2,1,3.1,1.2,nwsl,HOME_WIN
+2024-04-12 00:00:00,NWSL,Houston Dash,Spirit,1,3,0.6,2.3,nwsl,AWAY_WIN
+2024-04-12 00:00:00,NWSL,Utah Royals,Pride,0,1,0.1,1.8,nwsl,AWAY_WIN
+2024-04-13 00:00:00,NWSL,Chicago Stars,Angel City,0,1,0.9,1.0,nwsl,AWAY_WIN
+2024-04-13 00:00:00,NWSL,Racing Louisville,Wave,0,0,1.1,1.0,nwsl,DRAW
+2024-04-13 00:00:00,NWSL,North Carolina Courage,Thorns,2,0,0.4,1.1,nwsl,HOME_WIN
+2024-04-14 00:00:00,NWSL,Bay FC,Reign,3,2,1.8,1.0,nwsl,HOME_WIN
+2024-04-14 00:00:00,NWSL,Gotham FC,Current,1,1,1.3,1.3,nwsl,DRAW
+2024-04-19 00:00:00,NWSL,Orlando Pride,Wave,1,0,3.7,0.2,nwsl,HOME_WIN
+2024-04-20 00:00:00,NWSL,Kansas City Current,Bay FC,5,2,1.7,1.4,nwsl,HOME_WIN
+2024-04-20 00:00:00,NWSL,Portland Thorns FC,Dash,4,1,3.6,0.4,nwsl,HOME_WIN
+2024-04-20 00:00:00,NWSL,Racing Louisville,Royals,5,1,3.9,0.6,nwsl,HOME_WIN
+2024-04-20 00:00:00,NWSL,Washington Spirit,Gotham FC,2,0,1.9,0.6,nwsl,HOME_WIN
+2024-04-21 00:00:00,NWSL,Angel City FC,Courage,2,1,0.4,2.3,nwsl,HOME_WIN
+2024-04-21 00:00:00,NWSL,Seattle Reign FC,Red Stars,1,2,1.1,1.6,nwsl,AWAY_WIN
+2024-04-26 00:00:00,NWSL,Angel City FC,Current,1,3,1.0,3.0,nwsl,AWAY_WIN
+2024-04-26 00:00:00,NWSL,Washington Spirit,Pride,2,3,1.8,1.5,nwsl,AWAY_WIN
+2024-04-27 00:00:00,NWSL,Chicago Stars,Thorns,0,2,1.6,1.7,nwsl,AWAY_WIN
+2024-04-27 00:00:00,NWSL,San Diego Wave,Bay FC,2,1,1.4,1.8,nwsl,HOME_WIN
+2024-04-27 00:00:00,NWSL,Utah Royals,Dash,0,0,0.9,0.5,nwsl,DRAW
+2024-04-27 00:00:00,NWSL,North Carolina Courage,Reign,1,0,2.0,1.3,nwsl,HOME_WIN
+2024-04-28 00:00:00,NWSL,Gotham FC,Louisville,1,1,1.6,1.8,nwsl,DRAW
+2024-05-01 00:00:00,NWSL,Bay FC,Thorns,2,3,1.9,1.4,nwsl,AWAY_WIN
+2024-05-01 00:00:00,NWSL,Chicago Stars,Spirit,2,4,0.9,1.0,nwsl,AWAY_WIN
+2024-05-01 00:00:00,NWSL,Orlando Pride,Courage,4,1,2.1,0.6,nwsl,HOME_WIN
+2024-05-03 00:00:00,NWSL,Seattle Reign FC,Wave,2,1,1.7,1.6,nwsl,HOME_WIN
+2024-05-03 00:00:00,NWSL,Utah Royals,Angel City,1,2,0.9,1.4,nwsl,AWAY_WIN
+2024-05-04 00:00:00,NWSL,Gotham FC,Courage,1,0,1.0,0.8,nwsl,HOME_WIN
+2024-05-04 00:00:00,NWSL,Portland Thorns FC,Spirit,2,1,1.5,2.2,nwsl,HOME_WIN
+2024-05-05 00:00:00,NWSL,Bay FC,Red Stars,1,2,1.0,1.8,nwsl,AWAY_WIN
+2024-05-05 00:00:00,NWSL,Houston Dash,Current,1,1,0.8,2.5,nwsl,DRAW
+2024-05-05 00:00:00,NWSL,Orlando Pride,Louisville,1,0,1.3,1.0,nwsl,HOME_WIN
+2024-05-08 00:00:00,NWSL,Houston Dash,Gotham FC,0,1,0.2,2.4,nwsl,AWAY_WIN
+2024-05-08 00:00:00,NWSL,San Diego Wave,Royals,2,0,2.4,0.7,nwsl,HOME_WIN
+2024-05-08 00:00:00,NWSL,Seattle Reign FC,Current,0,0,0.2,1.2,nwsl,DRAW
+2024-05-10 00:00:00,NWSL,Racing Louisville,Spirit,1,2,1.4,0.9,nwsl,AWAY_WIN
+2024-05-11 00:00:00,NWSL,Orlando Pride,Bay FC,1,0,2.0,1.0,nwsl,HOME_WIN
+2024-05-11 00:00:00,NWSL,Portland Thorns FC,Reign,4,0,1.4,0.8,nwsl,HOME_WIN
+2024-05-12 00:00:00,NWSL,Angel City FC,Dash,0,1,0.9,1.1,nwsl,AWAY_WIN
+2024-05-12 00:00:00,NWSL,Chicago Stars,Royals,3,1,2.6,1.1,nwsl,HOME_WIN
+2024-05-12 00:00:00,NWSL,Kansas City Current,Courage,1,0,2.9,0.3,nwsl,HOME_WIN
+2024-05-12 00:00:00,NWSL,San Diego Wave,Gotham FC,1,1,1.4,1.6,nwsl,DRAW
+2024-05-17 00:00:00,NWSL,Bay FC,Wave,2,1,0.4,1.5,nwsl,HOME_WIN
+2024-05-17 00:00:00,NWSL,Houston Dash,Thorns,0,2,1.1,2.8,nwsl,AWAY_WIN
+2024-05-17 00:00:00,NWSL,North Carolina Courage,Royals,1,0,3.1,0.2,nwsl,HOME_WIN
+2024-05-18 00:00:00,NWSL,Kansas City Current,Louisville,3,3,2.0,0.5,nwsl,DRAW
+2024-05-18 00:00:00,NWSL,Washington Spirit,Angel City,4,2,2.7,1.4,nwsl,HOME_WIN
+2024-05-19 00:00:00,NWSL,Gotham FC,Red Stars,2,1,1.9,1.2,nwsl,HOME_WIN
+2024-05-19 00:00:00,NWSL,Seattle Reign FC,Pride,2,3,1.6,1.4,nwsl,AWAY_WIN
+2024-05-23 00:00:00,NWSL,Angel City FC,Wave,0,0,1.1,1.9,nwsl,DRAW
+2024-05-24 00:00:00,NWSL,Bay FC,Gotham FC,0,2,0.8,2.1,nwsl,AWAY_WIN
+2024-05-24 00:00:00,NWSL,Houston Dash,Courage,3,0,1.7,1.0,nwsl,HOME_WIN
+2024-05-24 00:00:00,NWSL,Orlando Pride,Thorns,2,1,2.4,2.5,nwsl,HOME_WIN
+2024-05-24 00:00:00,NWSL,Washington Spirit,Reign,3,2,2.2,1.0,nwsl,HOME_WIN
+2024-05-25 00:00:00,NWSL,Chicago Stars,Louisville,0,1,1.4,2.1,nwsl,AWAY_WIN
+2024-05-25 00:00:00,NWSL,Utah Royals,Current,0,1,0.3,3.9,nwsl,AWAY_WIN
+2024-06-07 00:00:00,NWSL,Racing Louisville,Dash,2,0,1.3,1.5,nwsl,HOME_WIN
+2024-06-07 00:00:00,NWSL,San Diego Wave,Pride,1,1,1.0,0.6,nwsl,DRAW
+2024-06-08 00:00:00,NWSL,Chicago Stars,Bay FC,1,2,1.2,3.2,nwsl,AWAY_WIN
+2024-06-08 00:00:00,NWSL,Gotham FC,Angel City,2,1,1.9,0.5,nwsl,HOME_WIN
+2024-06-08 00:00:00,NWSL,Portland Thorns FC,Courage,1,0,1.4,0.4,nwsl,HOME_WIN
+2024-06-08 00:00:00,NWSL,Utah Royals,Spirit,0,1,0.8,1.4,nwsl,AWAY_WIN
+2024-06-09 00:00:00,NWSL,Kansas City Current,Reign,5,2,2.9,1.9,nwsl,HOME_WIN
+2024-06-14 00:00:00,NWSL,Kansas City Current,Red Stars,2,2,2.2,0.3,nwsl,DRAW
+2024-06-15 00:00:00,NWSL,Houston Dash,Angel City,0,0,0.7,2.0,nwsl,DRAW
+2024-06-15 00:00:00,NWSL,Racing Louisville,Gotham FC,0,2,0.4,1.2,nwsl,AWAY_WIN
+2024-06-15 00:00:00,NWSL,Washington Spirit,Wave,1,1,1.5,1.0,nwsl,DRAW
+2024-06-15 00:00:00,NWSL,North Carolina Courage,Pride,0,0,1.0,2.0,nwsl,DRAW
+2024-06-16 00:00:00,NWSL,Bay FC,Royals,0,1,0.8,0.8,nwsl,AWAY_WIN
+2024-06-16 00:00:00,NWSL,Seattle Reign FC,Thorns,0,0,0.5,0.7,nwsl,DRAW
+2024-06-19 00:00:00,NWSL,Angel City FC,Louisville,3,2,1.5,2.0,nwsl,HOME_WIN
+2024-06-19 00:00:00,NWSL,Gotham FC,Wave,2,1,0.9,0.3,nwsl,HOME_WIN
+2024-06-21 00:00:00,NWSL,Orlando Pride,Royals,6,0,3.9,0.4,nwsl,HOME_WIN
+2024-06-22 00:00:00,NWSL,Bay FC,Angel City,1,0,1.1,1.2,nwsl,HOME_WIN
+2024-06-22 00:00:00,NWSL,Houston Dash,Wave,0,0,0.6,0.5,nwsl,DRAW
+2024-06-23 00:00:00,NWSL,Gotham FC,Spirit,0,2,1.2,1.6,nwsl,AWAY_WIN
+2024-06-23 00:00:00,NWSL,Portland Thorns FC,Current,1,4,0.7,2.2,nwsl,AWAY_WIN
+2024-06-23 00:00:00,NWSL,Seattle Reign FC,Louisville,1,1,2.0,0.7,nwsl,DRAW
+2024-06-23 00:00:00,NWSL,North Carolina Courage,Red Stars,3,1,1.2,0.7,nwsl,HOME_WIN
+2024-06-28 00:00:00,NWSL,Kansas City Current,Dash,2,0,3.1,0.3,nwsl,HOME_WIN
+2024-06-28 00:00:00,NWSL,San Diego Wave,Red Stars,0,3,2.1,1.7,nwsl,AWAY_WIN
+2024-06-29 00:00:00,NWSL,Racing Louisville,Bay FC,0,1,0.5,1.2,nwsl,AWAY_WIN
+2024-06-29 00:00:00,NWSL,Utah Royals,Thorns,0,0,1.8,0.9,nwsl,DRAW
+2024-06-29 00:00:00,NWSL,Washington Spirit,Courage,0,1,1.3,0.4,nwsl,AWAY_WIN
+2024-06-30 00:00:00,NWSL,Angel City FC,Pride,0,3,1.2,2.4,nwsl,AWAY_WIN
+2024-06-30 00:00:00,NWSL,Gotham FC,Reign,1,1,1.1,0.7,nwsl,DRAW
+2024-07-05 00:00:00,NWSL,Portland Thorns FC,Wave,1,0,2.4,1.0,nwsl,HOME_WIN
+2024-07-06 00:00:00,NWSL,Angel City FC,Gotham FC,1,2,1.6,2.6,nwsl,AWAY_WIN
+2024-07-06 00:00:00,NWSL,Bay FC,Spirit,0,3,1.4,2.4,nwsl,AWAY_WIN
+2024-07-06 00:00:00,NWSL,Chicago Stars,Dash,1,0,0.9,0.8,nwsl,HOME_WIN
+2024-07-06 00:00:00,NWSL,Kansas City Current,Pride,1,2,1.4,2.1,nwsl,AWAY_WIN
+2024-07-07 00:00:00,NWSL,Seattle Reign FC,Royals,1,1,2.4,1.6,nwsl,DRAW
+2024-07-07 00:00:00,NWSL,North Carolina Courage,Louisville,3,1,1.9,0.8,nwsl,HOME_WIN
+2024-08-23 00:00:00,NWSL,Houston Dash,Pride,0,1,1.3,2.6,nwsl,AWAY_WIN
+2024-08-23 00:00:00,NWSL,Utah Royals,Bay FC,2,1,0.8,1.4,nwsl,HOME_WIN
+2024-08-24 00:00:00,NWSL,Gotham FC,Thorns,2,0,1.0,0.4,nwsl,HOME_WIN
+2024-08-24 00:00:00,NWSL,Racing Louisville,Red Stars,3,1,2.0,0.6,nwsl,HOME_WIN
+2024-08-24 00:00:00,NWSL,San Diego Wave,Angel City,1,2,0.9,2.7,nwsl,AWAY_WIN
+2024-08-25 00:00:00,NWSL,Seattle Reign FC,Courage,1,0,2.1,0.4,nwsl,HOME_WIN
+2024-08-25 00:00:00,NWSL,Washington Spirit,Current,4,1,0.6,0.9,nwsl,HOME_WIN
+2024-08-30 00:00:00,NWSL,Portland Thorns FC,Bay FC,1,3,1.1,2.3,nwsl,AWAY_WIN
+2024-08-31 00:00:00,NWSL,Houston Dash,Royals,1,3,1.7,3.4,nwsl,AWAY_WIN
+2024-08-31 00:00:00,NWSL,Racing Louisville,Reign,2,3,2.0,1.0,nwsl,AWAY_WIN
+2024-09-01 00:00:00,NWSL,Angel City FC,Red Stars,2,1,1.4,1.3,nwsl,HOME_WIN
+2024-09-01 00:00:00,NWSL,Orlando Pride,Gotham FC,2,0,0.8,0.8,nwsl,HOME_WIN
+2024-09-01 00:00:00,NWSL,San Diego Wave,Spirit,1,1,0.6,2.1,nwsl,DRAW
+2024-09-01 00:00:00,NWSL,North Carolina Courage,Current,2,1,1.4,2.2,nwsl,HOME_WIN
+2024-09-06 00:00:00,NWSL,Angel City FC,Reign,2,3,1.3,2.4,nwsl,AWAY_WIN
+2024-09-07 00:00:00,NWSL,Bay FC,Louisville,1,0,1.5,1.1,nwsl,HOME_WIN
+2024-09-07 00:00:00,NWSL,Kansas City Current,Royals,1,0,1.8,1.2,nwsl,HOME_WIN
+2024-09-07 00:00:00,NWSL,Washington Spirit,Thorns,2,1,3.3,1.8,nwsl,HOME_WIN
+2024-09-08 00:00:00,NWSL,Chicago Stars,Pride,0,1,0.1,1.3,nwsl,AWAY_WIN
+2024-09-08 00:00:00,NWSL,Gotham FC,Dash,2,1,1.6,0.6,nwsl,HOME_WIN
+2024-09-08 00:00:00,NWSL,San Diego Wave,Courage,1,4,1.4,2.1,nwsl,AWAY_WIN
+2024-09-13 00:00:00,NWSL,Orlando Pride,Current,0,0,0.7,1.0,nwsl,DRAW
+2024-09-13 00:00:00,NWSL,Portland Thorns FC,Red Stars,0,1,0.8,1.9,nwsl,AWAY_WIN
+2024-09-13 00:00:00,NWSL,North Carolina Courage,Bay FC,1,1,0.7,2.1,nwsl,DRAW
+2024-09-14 00:00:00,NWSL,Racing Louisville,Angel City,2,1,0.5,1.2,nwsl,HOME_WIN
+2024-09-14 00:00:00,NWSL,Utah Royals,Wave,1,2,1.1,1.5,nwsl,AWAY_WIN
+2024-09-15 00:00:00,NWSL,Washington Spirit,Dash,3,0,2.2,0.8,nwsl,HOME_WIN
+2024-09-16 00:00:00,NWSL,Seattle Reign FC,Gotham FC,0,2,0.3,1.1,nwsl,AWAY_WIN
+2024-09-20 00:00:00,NWSL,Bay FC,Pride,0,1,1.0,1.3,nwsl,AWAY_WIN
+2024-09-20 00:00:00,NWSL,Kansas City Current,Spirit,3,0,1.0,0.6,nwsl,HOME_WIN
+2024-09-21 00:00:00,NWSL,Chicago Stars,Wave,1,0,1.3,3.4,nwsl,HOME_WIN
+2024-09-21 00:00:00,NWSL,Houston Dash,Reign,1,0,0.8,1.3,nwsl,HOME_WIN
+2024-09-21 00:00:00,NWSL,Racing Louisville,Courage,2,1,2.6,1.2,nwsl,HOME_WIN
+2024-09-22 00:00:00,NWSL,Gotham FC,Royals,1,0,0.7,1.6,nwsl,HOME_WIN
+2024-09-23 00:00:00,NWSL,Angel City FC,Thorns,2,2,1.6,1.6,nwsl,DRAW
+2024-09-27 00:00:00,NWSL,Angel City FC,Spirit,1,2,1.7,1.7,nwsl,AWAY_WIN
+2024-09-28 00:00:00,NWSL,Kansas City Current,Gotham FC,1,1,2.6,0.8,nwsl,DRAW
+2024-09-28 00:00:00,NWSL,Orlando Pride,Dash,3,1,3.2,1.2,nwsl,HOME_WIN
+2024-09-28 00:00:00,NWSL,San Diego Wave,Thorns,2,0,1.7,1.0,nwsl,HOME_WIN
+2024-09-28 00:00:00,NWSL,Utah Royals,Louisville,1,0,2.1,1.1,nwsl,HOME_WIN
+2024-09-29 00:00:00,NWSL,Chicago Stars,Courage,1,3,1.2,1.0,nwsl,AWAY_WIN
+2024-09-29 00:00:00,NWSL,Seattle Reign FC,Bay FC,0,1,0.6,2.1,nwsl,AWAY_WIN
+2024-10-04 00:00:00,NWSL,Houston Dash,Red Stars,0,2,3.0,1.8,nwsl,AWAY_WIN
+2024-10-04 00:00:00,NWSL,Seattle Reign FC,Angel City,0,1,0.6,1.2,nwsl,AWAY_WIN
+2024-10-05 00:00:00,NWSL,Gotham FC,Bay FC,5,1,4.0,1.9,nwsl,HOME_WIN
+2024-10-05 00:00:00,NWSL,Portland Thorns FC,Royals,1,2,2.0,1.7,nwsl,AWAY_WIN
+2024-10-05 00:00:00,NWSL,Racing Louisville,Current,0,2,0.6,1.4,nwsl,AWAY_WIN
+2024-10-05 00:00:00,NWSL,North Carolina Courage,Wave,2,1,2.1,2.5,nwsl,HOME_WIN
+2024-10-06 00:00:00,NWSL,Orlando Pride,Spirit,2,0,1.5,1.0,nwsl,HOME_WIN
+2024-10-11 00:00:00,NWSL,Portland Thorns FC,Pride,2,0,1.3,0.5,nwsl,HOME_WIN
+2024-10-12 00:00:00,NWSL,Bay FC,Current,0,1,0.8,1.3,nwsl,AWAY_WIN
+2024-10-12 00:00:00,NWSL,Chicago Stars,Gotham FC,0,2,0.2,2.2,nwsl,AWAY_WIN
+2024-10-12 00:00:00,NWSL,North Carolina Courage,Angel City,1,1,1.6,1.0,nwsl,DRAW
+2024-10-13 00:00:00,NWSL,San Diego Wave,Dash,0,2,1.1,1.5,nwsl,AWAY_WIN
+2024-10-13 00:00:00,NWSL,Utah Royals,Reign,3,0,2.5,0.1,nwsl,HOME_WIN
+2024-10-13 00:00:00,NWSL,Washington Spirit,Louisville,4,1,3.4,1.4,nwsl,HOME_WIN
+2024-10-18 00:00:00,NWSL,Seattle Reign FC,Dash,2,1,1.6,1.5,nwsl,HOME_WIN
+2024-10-19 00:00:00,NWSL,Bay FC,Courage,1,0,1.7,0.7,nwsl,HOME_WIN
+2024-10-19 00:00:00,NWSL,Kansas City Current,Wave,4,1,2.5,,nwsl,HOME_WIN
+2024-10-19 00:00:00,NWSL,Racing Louisville,Thorns,1,0,0.9,1.0,nwsl,HOME_WIN
+2024-10-20 00:00:00,NWSL,Angel City FC,Royals,1,1,1.2,1.4,nwsl,DRAW
+2024-10-20 00:00:00,NWSL,Gotham FC,Pride,3,1,2.0,,nwsl,HOME_WIN
+2024-10-20 00:00:00,NWSL,Washington Spirit,Red Stars,2,0,2.5,0.6,nwsl,HOME_WIN
+2024-11-01 00:00:00,NWSL,Portland Thorns FC,Angel City,3,0,1.5,0.9,nwsl,HOME_WIN
+2024-11-01 00:00:00,NWSL,Utah Royals,Gotham FC,1,4,1.1,3.4,nwsl,AWAY_WIN
+2024-11-02 00:00:00,NWSL,Houston Dash,Bay FC,2,3,1.1,2.1,nwsl,AWAY_WIN
+2024-11-02 00:00:00,NWSL,Orlando Pride,Reign,3,2,2.9,1.4,nwsl,HOME_WIN
+2024-11-02 00:00:00,NWSL,North Carolina Courage,Spirit,0,1,0.4,0.7,nwsl,AWAY_WIN
+2024-11-03 00:00:00,NWSL,Chicago Stars,Current,1,3,1.3,1.9,nwsl,AWAY_WIN
+2024-11-03 00:00:00,NWSL,San Diego Wave,Louisville,3,1,1.8,1.8,nwsl,HOME_WIN
+2024-11-08 00:00:00,NWSL,Orlando Pride,Red Stars,4,1,4.9,1.2,nwsl,HOME_WIN
+2024-11-09 00:00:00,NWSL,Kansas City Current,Courage,1,0,1.7,2.4,nwsl,HOME_WIN
+2024-11-10 00:00:00,NWSL,Gotham FC,Thorns,2,1,0.8,2.0,nwsl,HOME_WIN
+2024-11-10 00:00:00,NWSL,Washington Spirit,Bay FC,2,1,1.7,0.8,nwsl,HOME_WIN
+2024-11-17 00:00:00,NWSL,Orlando Pride,Current,3,2,2.4,2.6,nwsl,HOME_WIN
+2025-03-14 00:00:00,NWSL,Houston Dash,Spirit,1,2,1.0,1.4,nwsl,AWAY_WIN
+2025-03-14 00:00:00,NWSL,Orlando Pride,Chicago Stars,6,0,2.1,1.1,nwsl,HOME_WIN
+2025-03-15 00:00:00,NWSL,Kansas City Current,Thorns,3,1,1.9,1.2,nwsl,HOME_WIN
+2025-03-15 00:00:00,NWSL,Racing Louisville,Courage,1,1,1.7,1.2,nwsl,DRAW
+2025-03-15 00:00:00,NWSL,Seattle Reign FC,Gotham FC,1,1,0.5,1.3,nwsl,DRAW
+2025-03-15 00:00:00,NWSL,Utah Royals,Bay FC,1,1,1.0,0.8,nwsl,DRAW
+2025-03-16 00:00:00,NWSL,Angel City FC,Wave,1,1,0.7,1.3,nwsl,DRAW
+2025-03-21 00:00:00,NWSL,Portland Thorns FC,Angel City,1,1,1.7,0.5,nwsl,DRAW
+2025-03-22 00:00:00,NWSL,Bay FC,Louisville,2,0,0.9,1.4,nwsl,HOME_WIN
+2025-03-22 00:00:00,NWSL,North Carolina Courage,Reign,1,2,1.3,1.1,nwsl,AWAY_WIN
+2025-03-22 00:00:00,NWSL,San Diego Wave,Royals,3,2,2.2,1.1,nwsl,HOME_WIN
+2025-03-22 00:00:00,NWSL,Washington Spirit,Current,0,2,1.2,3.1,nwsl,AWAY_WIN
+2025-03-23 00:00:00,NWSL,Chicago Stars,Dash,1,2,1.1,2.2,nwsl,AWAY_WIN
+2025-03-23 00:00:00,NWSL,Gotham FC,Pride,0,2,1.1,1.0,nwsl,AWAY_WIN
+2025-03-28 00:00:00,NWSL,Houston Dash,Gotham FC,0,0,0.1,0.4,nwsl,DRAW
+2025-03-28 00:00:00,NWSL,Washington Spirit,Bay FC,2,0,1.1,1.3,nwsl,HOME_WIN
+2025-03-29 00:00:00,NWSL,Kansas City Current,Royals,3,0,3.1,0.2,nwsl,HOME_WIN
+2025-03-29 00:00:00,NWSL,Orlando Pride,Wave,2,1,1.8,0.3,nwsl,HOME_WIN
+2025-03-29 00:00:00,NWSL,Portland Thorns FC,Courage,0,0,1.7,2.2,nwsl,DRAW
+2025-03-30 00:00:00,NWSL,Angel City FC,Reign,2,1,1.4,1.5,nwsl,HOME_WIN
+2025-03-30 00:00:00,NWSL,Chicago Stars,Louisville,0,1,0.9,1.8,nwsl,AWAY_WIN
+2025-04-11 00:00:00,NWSL,Utah Royals,Thorns,0,1,0.8,2.4,nwsl,AWAY_WIN
+2025-04-12 00:00:00,NWSL,Houston Dash,Angel City,1,3,1.8,1.6,nwsl,AWAY_WIN
+2025-04-12 00:00:00,NWSL,Racing Louisville,Spirit,0,2,0.9,0.6,nwsl,AWAY_WIN
+2025-04-12 00:00:00,NWSL,San Diego Wave,Current,0,2,0.6,1.1,nwsl,AWAY_WIN
+2025-04-12 00:00:00,NWSL,Seattle Reign FC,Pride,0,1,1.3,1.5,nwsl,AWAY_WIN
+2025-04-13 00:00:00,NWSL,Bay FC,Chicago Stars,1,2,1.7,1.5,nwsl,AWAY_WIN
+2025-04-13 00:00:00,NWSL,Gotham FC,Courage,3,1,2.4,0.7,nwsl,HOME_WIN
+2025-04-18 00:00:00,NWSL,Angel City FC,Gotham FC,0,4,0.5,1.3,nwsl,AWAY_WIN
+2025-04-18 00:00:00,NWSL,Seattle Reign FC,Thorns,1,0,1.1,1.2,nwsl,HOME_WIN
+2025-04-18 00:00:00,NWSL,Utah Royals,Chicago Stars,1,0,1.0,0.5,nwsl,HOME_WIN
+2025-04-19 00:00:00,NWSL,Kansas City Current,Dash,2,0,1.6,0.6,nwsl,HOME_WIN
+2025-04-19 00:00:00,NWSL,North Carolina Courage,Bay FC,0,1,0.3,0.5,nwsl,AWAY_WIN
+2025-04-19 00:00:00,NWSL,Orlando Pride,Spirit,0,1,1.6,1.4,nwsl,AWAY_WIN
+2025-04-19 00:00:00,NWSL,Racing Louisville,Wave,1,4,1.4,0.7,nwsl,AWAY_WIN
+2025-04-22 00:00:00,NWSL,Portland Thorns FC,Gotham FC,4,1,2.1,0.7,nwsl,HOME_WIN
+2025-04-25 00:00:00,NWSL,Houston Dash,Royals,1,0,1.0,1.0,nwsl,HOME_WIN
+2025-04-25 00:00:00,NWSL,Orlando Pride,Angel City,3,2,1.3,0.8,nwsl,HOME_WIN
+2025-04-26 00:00:00,NWSL,Bay FC,Reign,1,1,0.6,1.1,nwsl,DRAW
+2025-04-26 00:00:00,NWSL,Chicago Stars,Wave,0,3,0.7,0.9,nwsl,AWAY_WIN
+2025-04-26 00:00:00,NWSL,North Carolina Courage,Current,3,2,1.2,1.1,nwsl,HOME_WIN
+2025-04-26 00:00:00,NWSL,Washington Spirit,Gotham FC,0,3,2.6,1.9,nwsl,AWAY_WIN
+2025-04-27 00:00:00,NWSL,Portland Thorns FC,Louisville,3,3,2.3,2.9,nwsl,DRAW
+2025-05-02 00:00:00,NWSL,Houston Dash,Louisville,1,2,1.0,0.8,nwsl,AWAY_WIN
+2025-05-02 00:00:00,NWSL,Seattle Reign FC,Current,1,0,0.3,0.7,nwsl,HOME_WIN
+2025-05-02 00:00:00,NWSL,Washington Spirit,Angel City,3,4,2.4,2.3,nwsl,AWAY_WIN
+2025-05-03 00:00:00,NWSL,Portland Thorns FC,Pride,1,0,1.6,1.0,nwsl,HOME_WIN
+2025-05-03 00:00:00,NWSL,Utah Royals,Courage,0,2,0.6,2.9,nwsl,AWAY_WIN
+2025-05-04 00:00:00,NWSL,Gotham FC,Chicago Stars,0,0,1.2,0.2,nwsl,DRAW
+2025-05-04 00:00:00,NWSL,San Diego Wave,Bay FC,2,1,1.9,0.8,nwsl,HOME_WIN
+2025-05-09 00:00:00,NWSL,Angel City FC,Royals,2,0,1.8,1.0,nwsl,HOME_WIN
+2025-05-09 00:00:00,NWSL,Racing Louisville,Gotham FC,1,0,0.7,1.0,nwsl,HOME_WIN
+2025-05-10 00:00:00,NWSL,Chicago Stars,Spirit,2,3,2.1,1.5,nwsl,AWAY_WIN
+2025-05-10 00:00:00,NWSL,North Carolina Courage,Pride,1,1,1.0,2.0,nwsl,DRAW
+2025-05-10 00:00:00,NWSL,San Diego Wave,Thorns,1,1,0.6,2.7,nwsl,DRAW
+2025-05-11 00:00:00,NWSL,Kansas City Current,Bay FC,4,1,2.5,0.7,nwsl,HOME_WIN
+2025-05-11 00:00:00,NWSL,Seattle Reign FC,Dash,0,1,0.6,1.0,nwsl,AWAY_WIN
+2025-05-16 00:00:00,NWSL,Gotham FC,Wave,0,1,0.5,0.3,nwsl,AWAY_WIN
+2025-05-16 00:00:00,NWSL,Houston Dash,Thorns,1,4,1.0,1.6,nwsl,AWAY_WIN
+2025-05-16 00:00:00,NWSL,Orlando Pride,Current,0,1,1.4,1.0,nwsl,AWAY_WIN
+2025-05-16 00:00:00,NWSL,Racing Louisville,Reign,0,1,1.1,0.6,nwsl,AWAY_WIN
+2025-05-17 00:00:00,NWSL,Bay FC,Angel City,2,0,1.3,1.1,nwsl,HOME_WIN
+2025-05-17 00:00:00,NWSL,North Carolina Courage,Chicago Stars,2,0,1.4,0.9,nwsl,HOME_WIN
+2025-05-17 00:00:00,NWSL,Washington Spirit,Royals,3,3,3.9,0.7,nwsl,DRAW
+2025-05-23 00:00:00,NWSL,Seattle Reign FC,Spirit,1,2,0.7,2.3,nwsl,AWAY_WIN
+2025-05-23 00:00:00,NWSL,Utah Royals,Pride,1,3,0.7,3.8,nwsl,AWAY_WIN
+2025-05-24 00:00:00,NWSL,Angel City FC,Louisville,2,3,1.6,1.5,nwsl,AWAY_WIN
+2025-05-24 00:00:00,NWSL,Chicago Stars,Current,1,3,0.1,1.9,nwsl,AWAY_WIN
+2025-05-24 00:00:00,NWSL,Houston Dash,Bay FC,2,2,0.8,2.2,nwsl,DRAW
+2025-05-25 00:00:00,NWSL,San Diego Wave,Courage,5,2,1.6,1.8,nwsl,HOME_WIN
+2025-06-06 00:00:00,NWSL,Racing Louisville,Royals,3,2,1.9,1.1,nwsl,HOME_WIN
+2025-06-06 00:00:00,NWSL,San Diego Wave,Reign,1,2,0.9,0.6,nwsl,AWAY_WIN
+2025-06-07 00:00:00,NWSL,Angel City FC,Chicago Stars,2,2,1.5,0.5,nwsl,DRAW
+2025-06-07 00:00:00,NWSL,Bay FC,Thorns,1,0,0.9,1.1,nwsl,HOME_WIN
+2025-06-07 00:00:00,NWSL,Gotham FC,Current,1,2,0.9,1.9,nwsl,AWAY_WIN
+2025-06-07 00:00:00,NWSL,Orlando Pride,Dash,1,0,1.4,0.6,nwsl,HOME_WIN
+2025-06-08 00:00:00,NWSL,Washington Spirit,Courage,3,1,1.5,2.7,nwsl,HOME_WIN
+2025-06-13 00:00:00,NWSL,Bay FC,Pride,0,1,1.7,0.4,nwsl,AWAY_WIN
+2025-06-13 00:00:00,NWSL,Houston Dash,Wave,2,3,0.8,1.9,nwsl,AWAY_WIN
+2025-06-13 00:00:00,NWSL,Utah Royals,Gotham FC,0,3,0.6,1.6,nwsl,AWAY_WIN
+2025-06-14 00:00:00,NWSL,Angel City FC,Courage,1,2,1.4,2.9,nwsl,AWAY_WIN
+2025-06-14 00:00:00,NWSL,Chicago Stars,Reign,2,2,1.0,1.1,nwsl,DRAW
+2025-06-14 00:00:00,NWSL,Kansas City Current,Louisville,4,2,2.1,1.1,nwsl,HOME_WIN
+2025-06-15 00:00:00,NWSL,Portland Thorns FC,Spirit,2,0,1.7,1.1,nwsl,HOME_WIN
+2025-06-20 00:00:00,NWSL,Kansas City Current,Angel City,1,0,2.1,0.8,nwsl,HOME_WIN
+2025-06-20 00:00:00,NWSL,Racing Louisville,Pride,2,0,2.5,0.9,nwsl,HOME_WIN
+2025-06-21 00:00:00,NWSL,Gotham FC,Bay FC,2,1,0.9,2.8,nwsl,HOME_WIN
+2025-06-21 00:00:00,NWSL,North Carolina Courage,Dash,2,1,2.1,0.5,nwsl,HOME_WIN
+2025-06-21 00:00:00,NWSL,Portland Thorns FC,Chicago Stars,1,0,0.9,0.3,nwsl,HOME_WIN
+2025-06-21 00:00:00,NWSL,Utah Royals,Reign,1,4,1.8,2.2,nwsl,AWAY_WIN
+2025-06-22 00:00:00,NWSL,San Diego Wave,Spirit,0,0,0.8,0.8,nwsl,DRAW
