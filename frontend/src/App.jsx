@@ -92,6 +92,19 @@ function App() {
     return `${value}%`;
   };
 
+  const getOutcomeClass = (label) => {
+    if (label === "Low") return "confidence-low";
+    if (label === "Moderate") return "confidence-moderate";
+    return "confidence-high";
+  };
+
+  const formatProbabilityLabel = (label) => {
+    if (label === "HOME_WIN") return "Home Win";
+    if (label === "AWAY_WIN") return "Away Win";
+    if (label === "DRAW") return "Draw";
+   return label.replaceAll("_", " ");
+  };
+
   return (
     <div className="page">
       <header className="hero">
@@ -152,11 +165,11 @@ function App() {
                 <h2>
                   {prediction.home_team} vs {prediction.away_team}
                 </h2>
-                <span>{prediction.prediction}</span>
+                <span>{formatProbabilityLabel(prediction.prediction)}</span>
               </div>
 
               <div className="confidence-box">
-                <p>Model Confidence</p>
+                <p>Prediction Confidence</p>
                 <h3>{prediction.confidence}%</h3>
               </div>
 
